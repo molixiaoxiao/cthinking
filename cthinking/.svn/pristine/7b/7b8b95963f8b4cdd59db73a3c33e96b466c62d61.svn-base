@@ -1,0 +1,90 @@
+<style>
+.dayititle{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 35px;
+	color:black;
+	text-shadow: 5px 5px 5px #b0e0e6;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+#image1{
+position:absolute;
+top:210px;
+left:30px;
+}
+
+#image2{
+position:absolute;
+top:210px;
+left:360px;
+}
+
+#image3{
+position:absolute;
+top:600px;
+left:200px;
+}
+
+
+
+#jiantou2{
+position:absolute;
+margin-top:300px;
+padding-left:25px;
+}
+
+#jiantou31{
+position:absolute;
+margin-top:260px;
+margin-left:25px;
+}
+
+#jiantou32{
+position:absolute;
+margin-top:260px;
+margin-left:350px;
+}
+
+#jiantou33{
+position:absolute;
+margin-top:620px;
+margin-left:190px;
+}
+
+</style>
+
+    <div class="rightpart">
+    <div class="right_top"></div>
+	   <div class="innerframe">
+			<div class="dayititle">
+				<p>交流与讨论</p>
+				<img src="../images/jiantou1.jpg" id="jiantou1" width="600px" height="80px">
+			</div>
+         <div>
+			<img src="../images/dayi1.jpg" id="image1" width="250px"height="250px">
+			<img src="../images/dayi2.jpg" id="image2" width="250px" height="250px">
+		</div>
+		<div >
+			<a href="../toteacher.php" id="jiantou31"><img src="../images/jiantou3.jpg"width="50px">&nbsp;&nbsp;与老师进行交流</a>
+		</div>
+		<div >
+			<a href="../toClassmates.php"id="jiantou32"><img src="../images/jiantou3.jpg"width="50px">&nbsp;&nbsp;与同学进行讨论</a>
+		</div>
+		<div>
+		<img src="../images/jiantou2.jpg" id="jiantou2" width="600px" height="80px">
+		</div>
+		<div>
+		<img src="../images/dayi3.jpg" id="image3" width="250px" height="220px">
+		</div>
+		<div >
+			<a href="../studynote.php" id="jiantou33"><img src="../images/jiantou3.jpg" width="50px">&nbsp;&nbsp;我的学习笔记
+		</a>
+		</div>
+	</div> 
+  </div>
+  <div class="shadow">
+</div>
+
+

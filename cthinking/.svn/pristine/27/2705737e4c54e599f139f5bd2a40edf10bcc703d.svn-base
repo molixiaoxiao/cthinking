@@ -1,0 +1,43 @@
+//生成XMLHttpRequest对象，为了和服务器端进行交互
+	var xmlhttp;
+	if(window.XMLHttpRequest){
+		xmlhttp = new XMLHttpRequest();
+	}else{
+		xmlhttp = new ActiveXObject("Microsoft.XMLHttp");
+	}
+
+$(document).ready(function(){
+	$("#find").click(function(){
+		var loginid = $('input:radio[name="loginid"]:checked').val();		
+		var username = $(".username").val();//获取输入的帐号值
+		var email = $(".email").val();//获取输入的密码
+				
+		var url = "fpcheck.php?loginid="+loginid+"&username="+username+"&email="+email;//通过URL传递参数
+	
+		//设置和服务器端交互的相应参数，
+		xmlhttp.open('GET',url,true);//true,表示异步
+		
+		//注册回调方法，当服务器端返回数据后，可以执行回调方法
+		xmlhttp.onreadystatechange = function(){
+			//写回调方法，判断服务器端的交互是否完成，还要判断服务器端是否正确返回了数据
+			if(xmlhttp.readyState ==4 && xmlhttp.status == 200){
+				msg = xmlhttp.responseText;
+				if(msg == '0'){
+					document.getElementById('prompt').innerHTML="<span style='color:red'>用户不存在!</span>";
+				}else if(msg == '2'){
+					document.getElementById('prompt').innerHTML="<span style='color:red'>用户名或邮箱错误!</span>";
+				}else if(msg == '1'){
+					document.getElementById('prompt').innerHTML="<span style='color:red'>邮件已经发送，请及时查看！</span>";
+					
+					window.location.href="sendemail.php";
+				}else{
+					document.getElementById('prompt').innerHTML="<span style='color:red'>unknown error!</span>";
+				}	
+			}
+		}	
+		//设置向服务器发送的数据，启动和服务器的交互，
+		//这里使用的是GET方式，请求数据位于URL链接里面，参数直接设为NULL
+		xmlhttp.send();	
+	}); 
+})
+

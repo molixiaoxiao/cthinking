@@ -1,0 +1,74 @@
+*{
+	font-size:18px;
+	text-decoration:none;
+	color:#000;	
+	margin: 0px auto;	
+}
+
+form{
+   margin-left:100px;
+	float:left;
+	padding-top:40px;
+	height:350px;
+	width:700px;
+}
+table{
+height:300px;
+width:700px;
+}
+td{
+	 height:30px;
+ }
+.label {
+width: 90px;  
+}
+
+#s_checkcode,#t_checkcode{/*隐藏的验证码，方便验证*/
+	padding-top:0px;
+}
+ .status {
+   width: 350px;
+     font-size:14px;
+}
+#depValH,#majValH{
+	display:none;/*隐藏所选的学院和专业，方便传递参数*/
+}
+.botton_area{
+	padding-top:40px;
+	height:70px;
+}
+#t_checkcode,#s_checkcode,#t_txt_code,#s_txt_code{
+	float:left;
+}
+#t_picsrc,#s_picsrc{/*生成的验证码图片*/
+	height:26px;
+	padding-left:8px;
+	float:left;
+}
+#t_new_code,#s_new_code{
+	padding-top:10px;
+	padding-left:6px;
+	float:left;
+	font-size:14px;
+	color:#00F;
+	text-decoration:underline;
+	
+}
+label.error {
+  background:url("../images/unchecked.gif") no-repeat 0px 0px;
+  padding-left: 16px;
+  font-weight: bold;
+  font-size:14px;
+  color: #EA5200;
+}
+label.checked {
+  background:url("../images/checked.gif")no-repeat 0px 0px ;
+padding-left: 16px;
+  }
+#footer{
+	clear:both;
+	width:700px;
+	font-size:12px;
+	text-align:center;	
+	margin-top:10px;
+}

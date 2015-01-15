@@ -1,0 +1,127 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<?php 
+	session_start();
+	$in = false;
+	if(isset($_SESSION['nickname']))
+	{
+		$username= $_SESSION['nickname'];
+	}
+	else
+	{
+		$username = '';
+	}
+	//判断是否登录
+	if(isset($_SESSION['in']))
+	{
+		$in = $_SESSION['in'];
+	}
+	if(!$in)
+	{
+		echo "<script>alert(\"请先登录!\");history.back();</script>";
+		exit;
+	}
+	
+	$posting_title = $_POST['title'];   //获取标题
+	$posting_content = $_POST['content'];  //获取内容
+	$posting_id = $_SESSION['loginID'];     //获取用户ID
+	//$posting_reply_content = $_POST['reply_content'];  //获取回复的的内容
+	
+	if($posting_title=="")  //如果输入的帖子主题为空
+	{
+		echo "<script>alert(\"请输入帖子的主题！\");history.back();</script>";
+		exit;
+	}
+	if($posting_content=="")  //如果输入的帖子内容为空
+	{
+		echo "<script>alert(\"请输入帖子的内容！\");history.back();</script>";
+		exit;
+	}
+
+	// if($posting_reply_content=="")  //如果输入的回复内容为空
+	// {
+	// 	echo "<script>alert(\"你回复的内容不能为空！\");history.back();</script>";
+	// 	exit;
+	// }
+
+
+	include "../sqlclass/sqlclass.php";
+	$mysql = new mySql();
+	if($posting_id==0)	//获取用户类型
+	{
+		$sql = "select * from tb_sinfo where nickname='".$username."'";
+	}
+	else if($posting_id==1)
+	{
+		$sql = "select * from tb_tinfo where nickname='".$username."'";
+	}
+	
+	$mysql->query($sql);
+	$resInfo = $mysql->getnext();
+	if($resInfo == '0')
+	{
+		echo $sql;
+	}
+	$posting_nickname=$resInfo->nickname;  //获取要显示的昵称
+	$posting_time=date("Y-m-j H:i:s");    //获取时间戳
+	
+	include "sql.php";
+	$studentqa = new studentqa();
+	$posting_title_id = $studentqa->inserttitle($posting_title,$posting_nickname,$posting_content,$posting_time);
+	if($posting_title_id != '0')
+	{
+		echo "提交成功！";
+	}
+	//$posting_post_id = $studentqa->insertpost($posting_nickname,$posting_title_id,$posting_content,$posting_time);
+	//$studentqa->insertreply($posting_nickname,$posting_title_id,$posting_post_id,$posting_content,$posting_time);
+
+	// $sql_title_id = "select max(title_id) as MAXID from tb_alltitle";  //获取tb_alltitle表中title_id字段的最大值
+	// $mysql->query($sql_title_id);
+	// $res_alltitle = $mysql->getnext();
+	// if($res_alltitle == '0')
+	// {
+	// 	echo $sql_title_id;
+	// }
+	// $posting_title_id = $res_alltitle->MAXID + 1;
+	// echo $posting_title_id;
+// 
+	// $sql_post_id = "select count(id) as MAXID from tb_posting where title_id='".$posting_title_id."'";  //获取tb_posting表中post_id字段的最大值
+	// $mysql->query($sql_post_id);
+	// $res_posting = $mysql->getnext();
+	// if($res_posting == '0')
+	// {
+	// 	echo $sql_post_id;
+	// }
+	// $posting_post_id = $res_posting->MAXID + 1;
+
+	// if((mysql_query("insert into tb_posting(id, nickname, title_id, post_id, content, createtime, isDelete) 
+	// 	values(\"\", '".$posting_nickname."','".$posting_title_id."','','".$posting_content."', '".$posting_time."', '0')"))
+	// 	&&(mysql_query("insert into tb_alltitle(id, title, title_id, nickname, reply_num, isDelete)
+	// 	values(\"\", '".$posting_title."','".$posting_title_id."','".$posting_nickname."','0','0')")))
+	// {
+	// 	echo "<script>alert(\"新帖发表成功！\");window.location.href=\"postInfo.php？post_id=\"".$posting_post_id.";</script>";
+	// }
+	// else
+	// {
+	// 	// echo "insert into tb_posting(id, nickname, title_id, post_id, content, createtime, isDelete) 
+	// 	// values(\"\", '".$posting_nickname."', \"\",'".$posting_title."', \"\",'".$posting_content."', '".$posting_time."', '0')";
+	// 	// echo "<br />";
+	// 	// echo "insert into tb_alltitle(id, title, title_id, nickname, reply_num, isDelete)
+	// 	// values(\"\", '".$posting_title."','".$posting_title_id."','".$posting_nickname."','0','0')";
+	// 	echo "<script>alert(\"新帖发表失败！\");history.back();</script>";
+	// }
+
+	//将得到的回复内容插入到tb_reply表中
+	// $sql_reply_content = "insert into reply tb_reply(id,nickname,title_id,post_id,content,createtime,isDelete)
+	// 	value(\"\",'".$posting_nickname."','".$posting_title_id."','".$posting_post_id."','".$posting_reply_content."', '".$posting_time."', '0')";
+	// $res_reply_content = mysql_query($sql_reply_content);
+
+	// if($res_reply_content)
+	// {
+	// 	echo "<script>alert(\"回复成功！\");window.location.href=\"postInfo.php?post_id=\"".$posting_post_id.";</script>";
+	// }
+	// else
+	// {
+	// 	echo "<script>alert(\"回复失败！\");history.back();</script>";
+	// }
+	$mysql->close();
+?>

@@ -1,0 +1,22 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<form action=postinsert.php method=post>
+			<table align=center border="1" cellpadding="2" cellspacing="0" class="posting_table">
+				<tr width="750px">
+					<td width="200px"></td>
+					<td>
+						<p>我的问题：<input type=text name=title></p>
+						<p>详细说明：<textarea name=details cols="50" rows="5"></textarea></p>
+					</td>
+				</tr>
+			</table>
+			<input type="submit" name="submit" value="提交"/>
+			<input type="reset" name="reset" value="重填"/>
+		</form>
+		
+	</body>
+</html>
+
+

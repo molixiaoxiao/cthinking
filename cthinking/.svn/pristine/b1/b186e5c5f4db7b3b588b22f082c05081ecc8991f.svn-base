@@ -1,0 +1,1 @@
+<?php	session_start();	//¿ªÆôsession	$_SESSION['in'] = false;	$_SESSION['nickname'] = '';	$_SESSION['loginID'] = "";	header('Location:../index.php');?>

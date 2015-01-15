@@ -1,0 +1,154 @@
+<?php
+	if(!session_id()){
+		session_start();
+	}
+	$in = false;
+	if(isset($_SESSION['nickname'])){
+		$username= $_SESSION['nickname'];
+	}else{
+		$username = '';
+	}
+	//判断是否登录
+	if(isset($_SESSION['in'])){
+		$in = $_SESSION['in'];
+	}
+?>
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>学生答疑</title>
+		<link href="../style.css" rel="stylesheet" type="text/css" />
+		<link href="../css/studentqa.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="../css/lrtk.css" />
+		<link href="../css/cupertino/jquery-ui-1.8.18.custom.css" rel="stylesheet" />
+		<script type="text/javascript" src="../js/jquery.js"></script>
+		<script type="text/javascript" src="../js/jquery.imgbox.pack.js"></script>
+		<script type="text/javascript" src="../js/works.js"></script>
+		<script type="text/javascript" src="../js/login.js"></script>
+		<script type="text/javascript" src="../js/demo.js"></script>
+		<script type="text/javascript" src="../js/jquery-ui-1.8.18.custom.min.js"></script>
+		<script type="text/javascript" src="../js/login_chceck.js"></script>
+	</head>
+	<body>
+		<div id="outside">
+		    <div class="box">
+		        <div class="top" id="top">
+				    <div class="ueser_loginout">
+						<span class="wel"><a>Hi, 欢迎您！</a>	
+						<?php 
+							if($in){
+								echo $username;
+						?>
+						</span>
+						<span title="退出" class="logoutspan">退出</span> 
+						<?php
+						}else {
+							?>
+							<span title="登录" class="loginspan" >登录</span>　|
+							<a href="../register/register.php" target="_blank" title="注册">注册</a>　|　
+							<a href="../php/forgetpassword.php" target="_blank" title="忘记密码">忘记密码</a>	
+							<?php 
+						}
+						?>	
+				    </div>
+		      	</div>
+				<div class="content">
+			    	<div class="div_height" >
+						<div class="div-head">
+							<p class="discuss">综合讨论区</p>
+						</div>
+
+
+
+						<div class="div-list">
+							<!-- <a align="center" href="" class="lastpage" >上一页</a>
+							<a align="center" href="" class="nextpage">下一页</a> -->
+							<a href="posting.php" class="btn_post">我要发帖</a>			
+							
+						</div>
+						<div class="div-table">	
+						<?php
+							//显示所有已上传的文件列表
+							include "../sqlclass/sqlclass.php";
+							$mysql = new mySql();
+							//$sql = "select * from tb_alltitle";
+							//$mysql->query($sql);
+							//$resInfo = $mysql->getnext();
+							
+							$pageSize = 10;
+							$pageNumber = $_GET['pageNumber'];
+							if($pageNumber == null)
+							{
+								$pageNumber = 1;
+							}
+							$sqlCount = "select count(*) from tb_alltitle";
+							//$mysql->query($sqlCount);
+							$resCount = mysql_fetch_row(mysql_query($sqlCount));
+							$totalCount = $resCount[0];
+
+							$exec = "select * from tb_alltitle limit ".(($pageNumber-1) * $pageSize).",10";
+							$mysql->query($exec);
+							$resInfo = $mysql->getnext();
+
+
+							echo "<div>";
+							echo "<div>序号</div>";
+							echo "<div>标题</div>";
+							echo "<div>作者</div>";
+							echo "<div>回复数</div>";
+							echo "</div>";
+
+							while ($resInfo != '0') {
+								echo "<div>";
+								echo "<div>".$resInfo->title_id."</div>";
+								echo "<div><a href=\"postInfo.php?title_id=".$resInfo->title_id."\">".$resInfo->title."</a></div>";
+								echo "<div>".$resInfo->nickname."</div>";
+								echo "<div>".$resInfo->post_num."</div>";
+								echo "</div>";
+
+								$resInfo = $mysql->getnext();
+							}
+
+							echo "<div>";
+							if($pageNumber > 1)
+							{
+								echo "<a href=studentqa.php?pageNumber=".($pageNumber-1).">前一页&nbsp&nbsp</a>";
+							}
+							else
+							{
+								echo "前一页&nbsp&nbsp";
+							}
+
+							if($pageNumber < $totalCount/$pageSize) //判断页数
+							{
+								echo "<a href=studentqa.php?pageNumber=".($pageNumber+1).">后一页</a>";
+							}
+							else
+							{
+								echo "后一页";
+							}
+							
+							echo "</div>";
+							$mysql->close();
+						?>
+						</div>
+					</div>
+					<div class="shadow">
+					</div>
+					<div class="bottom"><h1>版权所有  2011  计算与网络中心  保留所有权利。</h1>
+						<div id="divTotalizer" name="divTotalizer">
+						</div>
+					</div>
+		    	</div>
+			    <div class="content_shadow">
+			    </div>
+			</div>	
+		</div>
+	</body>
+</html>
+
+ 

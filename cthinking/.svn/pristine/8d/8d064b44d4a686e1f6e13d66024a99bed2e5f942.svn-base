@@ -1,0 +1,98 @@
+.studentqa{
+	position: relative;
+	top:10px;
+	width:1000px;
+	border:1;
+	margin:center;
+	color:#FFFFFF;
+}
+
+.div_height{
+	border: 1px solid blue;
+}
+
+.div-head{
+	background-color: #7897ed;
+	color: #ffffff;
+	font-weight: bolder;
+	text-align: left;
+	padding: 3px;
+}
+
+.discuss{
+	margin:left;
+	font-size:20px;
+	color: blue;
+}
+
+.div-list{
+
+}
+
+
+.lastpage{
+	display: inline-block;
+	margin-left: 500px;
+	
+}
+
+.div-table{
+
+}
+
+table
+{
+	border: 1px solid blue;
+	width:100%;
+
+}
+
+th{
+	border: 1px solid blue;
+}
+
+
+td{
+	border: 1px solid blue;
+}
+
+.th1{
+	padding-left: 10px;
+	padding-top: 5px;
+	height: 18px;
+	border-bottom: 1px solid #d6dff7;
+		border-bottom-width: 1px;
+		border-bottom-style: solid;
+		border-bottom-color: rgb(214, 223, 247);
+	color: #0B1DF3;
+}
+
+
+
+.btn_post{
+	display:inline-block;
+	margin-left:10px;
+	width:80px;
+	height:25px;
+	text-align:center;
+	font-size:20px;
+	line-height:25px;
+	overflow:hidden;
+	background-color:#4BA;
+}
+
+.lastpage,.nextpage{
+	font-size:16px;
+}
+
+
+
+.posting_table{
+	width:600px;
+}
+
+.post_reply{
+	position: relative;
+	padding-bottom:10px;
+	margin-right:20px;
+}

@@ -1,0 +1,104 @@
+<?php
+	class mySql{
+		private $server = "localhost";
+		private $user = "root";
+		private $password = "";
+		
+		private $connecter;
+		private $database = 'cthinking1';
+		private $result;
+		private $row;
+		// private $server = SAE_MYSQL_HOST_M;
+		// private $user = SAE_MYSQL_USER;
+		// private $password = SAE_MYSQL_PASS;
+		// private $port = SAE_MYSQL_PORT;
+
+		// private $connecter;
+		// private $database = SAE_MYSQL_DB;
+		// private $result;
+		// private $row;
+		
+		function __construct(){
+			$this->connecter = @mysql_connect($this->server.":".$this->port,$this->user,$this->password);
+			if(!@mysql_select_db($this->database,$this->connecter)){
+				echo("ubable to locate the books database at this time!");
+				exit();
+			}
+		}
+		
+		function query($sql){
+			mysql_query("set names 'utf8'"); 
+			$this->result = mysql_query($sql,$this->connecter) or die('error perform query!');
+		}
+
+		
+		function getnext(){
+			if($this->result){
+				if(($this->row = mysql_fetch_object($this->result))){
+					$content = $this->row;
+					return $content;
+				}else return '0';
+			}else return '0';
+		}
+		
+		function insert($sql){
+			mysql_query("set names 'utf8'"); 
+			if(!mysql_query($sql,$this->connecter)){
+				return '0';		//插入失败
+			}
+			return '1';		//插入成功
+		}
+		
+		function update($sql){
+			mysql_query("set names 'utf8'");
+			mysql_query($sql) or die('error update!');
+		}		
+		
+		function delete($sql){
+			mysql_query($sql,$this->connecter) or die('error delete');
+		}
+			
+		function unhtml($row){
+			$rwo = htmlspecialchars($row);
+			$row = str_replace(chr(13),"<br>&nbsp&nbsp&nbsp&nbsp",$row);
+			$row = str_replace(chr(32),"&nbsp",$row);
+			$row = str_replace("[_[","<",$row);
+			$row = str_replace(")_)",">",$row);
+			$row = str_replace("|_|"," ",$row);
+			$row = trim($row);
+			$row = $this->msubstr($row);
+			return $row;
+		}
+
+		function msubstr($row){
+			$tmpstr = '';
+			for($i = 0; $i < strlen($row); $i++){
+				if(ord(substr($row,$i,1)) > 0xa0){
+					$tmpstr.= substr($row,$i,2);
+					$i ++;
+				}else{
+					$tmpstr.= substr($row, $i, 1);
+				}
+			}
+			return $tmpstr;
+		}			
+					
+		function close(){
+			mysql_close();
+		}
+		
+		function getRowsNum($sql)//获取记录数目
+		{
+			$this->query($sql);
+			if(
+			mysql_errno()==0){
+				return @mysql_num_rows($this->result);
+			}
+			else{
+				return 0;
+			}
+		}
+
+	}
+
+?>

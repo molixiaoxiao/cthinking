@@ -1,0 +1,101 @@
+
+<?php
+	if(!session_id()){
+		session_start();
+	}
+	$in = false;
+	if(isset($_SESSION['nickname'])){
+		$username= $_SESSION['nickname'];
+	}else{
+		$username = '';
+	}
+	//判断是否登录
+	if(isset($_SESSION['in'])){
+		$in = $_SESSION['in'];
+	}
+?>
+
+<style type="text/css">
+.div_height{clear: both;width: 1000px;min-height:600px;background-color: #0000;}
+</style>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>学生答疑</title>
+		<link href="../style.css" rel="stylesheet" type="text/css" />
+		<link href="../css/studentqa.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="../css/lrtk.css" />
+		<link href="../css/cupertino/jquery-ui-1.8.18.custom.css" rel="stylesheet" />
+		<script type="text/javascript" src="../js/jquery.js"></script>
+		<script type="text/javascript" src="../js/jquery.imgbox.pack.js"></script>
+		<script type="text/javascript" src="../js/works.js"></script>
+		<script type="text/javascript" src="../js/login.js"></script>
+		<script type="text/javascript" src="../js/demo.js"></script>
+		<script type="text/javascript" src="../js/jquery-ui-1.8.18.custom.min.js"></script>
+		<script type="text/javascript" src="../js/login_chceck.js"></script>
+	</head>
+	<body>
+		<div id="outside">
+		    <div class="box">
+		        <div class="top" id="top">
+				    <div class="ueser_loginout">
+						<span class="wel"><a>Hi, 欢迎您！</a>	
+						<?php 
+							if($in){
+								echo $username;
+						?>
+						</span>
+						<span title="退出" class="logoutspan">退出</span> 
+						<?php
+						}else {
+							?>
+							<span title="登录" class="loginspan" >登录</span>　|
+							<a href="../register/register.php" target="_blank" title="注册">注册</a>　|　
+							<a href="../php/forgetpassword.php" target="_blank" title="忘记密码">忘记密码</a>	
+							<?php 
+						}
+						?>	
+				    </div>
+		      	</div>	  	  
+		    	<div class="div_height" >
+					<div>
+						<p class="discuss">综合讨论区</p>
+					</div>
+					<form action="postinsert.php" method="post">
+			<table align="center" border="1" cellpadding="2" cellspacing="0" class="posting_table">
+				<tr width="750px">
+					<td width="200px">
+						<p>我的问题：</p>
+					</td>
+					<td>
+						<textarea name="title" cols="90" rows="4"></textarea>
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>详细说明：</p>
+					</td>
+					<td>
+						<textarea name="content" cols="90" rows="5"></textarea>
+					</td>
+				</tr>
+			</table>
+			<input type="submit" name="submit" value="提交"/>
+			<input type="reset" name="reset" value="重填"/>
+		</form>
+					
+				<div class="bottom"><h1>版权所有  2011  计算与网络中心  保留所有权利。</h1>
+					<div id="divTotalizer" name="divTotalizer">
+					</div>
+				</div>
+		    </div>
+		    <div class="content_shadow">
+		    </div>
+		</div>		
+	</body>
+</html>
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute">
+	
+	<mx:Text x="103" y="104" text="hello flex">		
+	</mx:Text>
+	<mx:ComboBox dataProvider="{}" id="mycombobox">
+	
+	</mx:ComboBox>
+	<mx:Script>
+		<![CDATA[
+			public function change():void{
+				var temp:String = "hello flex2";
+				textInput.text = temp;
+			}
+			public function getYEEvent():void{
+				yeRemoteObj.getYE.send();
+			}
+		]]>
+	</mx:Script>
+	<mx:TextInput id="textInput" creationComplete="change()" x="29" y="40">
+	</mx:TextInput>
+	<mx:RemoteObject id = "yeRemoteObj" destination = "useMXML">
+	<mx:method name="getYE">
+		<mx:arguments>
+			<arg1>
+				{phonetNumber.text}
+			</arg1>
+			<arg2>
+				 {password.text}
+			</arg2>
+		</mx:arguments>
+	</mx:method>
+	</mx:RemoteObject>
+		<mx:Canvas width="430" height="255">
+			<mx:Label x="33" y="10" text="查询" width="174" height="29"/>
+			<mx:Label x="84" y="63" text="手机号"
+ 		</mx:Canvas>
+	
+	<mx:Text x="103" y="169" text="Text" width="159"/>
+	<mx:Text x="103" y="195" text="Text" width="159"/>
+</mx:Application>

@@ -1,0 +1,136 @@
+﻿@charset "utf-8";
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td
+	{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+button {
+	border: 0 none;
+	padding: 0;
+	cursor: pointer;
+}
+
+img {
+	border: 0;
+}
+
+
+
+.clear_fix {
+	zoom: 1;
+}
+
+.clear_fix:after {
+	display: block;
+	clear: both;
+	content: ".";
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+}
+
+
+/*nav*/
+#public-nav {
+	font-family: Microsoft YaHei;
+	background: url(http://www.kugou.com/common/images/bg.png) ;
+	height: 35px;
+	width: 214px;
+	margin: 0 auto
+}
+
+#public-nav li {
+	float: left;
+}
+
+#public-nav ul {
+	float: left;
+	height: 35px;
+}
+
+#public-nav .n1 a {
+	color: #fff;
+	font-size: 14px;
+	height: 35px;
+	line-height: 35px;
+	width: 107px;
+	text-align: center;
+	display: block;
+	
+}
+
+#public-nav .hover a,#public-nav .n1 a:hover {
+	background: #80dbff
+}
+
+#public-nav a.h {
+	background: #80dbff;
+	color: #fff;
+}
+
+#public-nav .hover {
+	position: relative
+}
+
+#public-nav .hover span {
+	border-style: dashed dashed solid dashed;
+	border-color: transparent transparent #fff transparent;
+	border-width: 5px;
+	position: absolute;
+	bottom: -1px;
+	left: 50%;
+	margin-left: -5px;
+	font-size: 0;
+	line-height: 0
+}
+
+
+/*chrismax*/
+/*
+#snow {
+	padding: 20px 0 0 7px;
+	background: url(http://www.kugou.com/common/images/snow.png) no-repeat;
+	_background: none;
+	_filter: progid : DXImageTransform.Microsoft.AlphaImageLoader ( src =
+		'http://www.kugou.com/common/images/snow.png', sizingMethod = 'crop' )
+		;
+	width: 961px;
+	height: 46px;
+	position: absolute;
+	top: 90px;
+	left: -7px;
+	z-index: 2
+}
+
+#snow a {
+	float: left;
+	width: 107px;
+	height: 35px;
+}
+
+#snow a.m {
+	margin-right: 66px
+}
+
+#snow a.o {
+	width: 78px;
+}
+
+.chrismax-head {
+	background: url(http://www.kugou.com/common/images/chrisHead.png)
+		no-repeat !important;
+	height: 110px !important;
+	z-index: 2;
+}
+
+.yuandan-head {
+	background: url(http://www.kugou.com/common/images/yuandan.png)
+		no-repeat !important;
+	height: 110px !important;
+	z-index: 2;
+}*/

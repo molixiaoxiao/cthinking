@@ -1,0 +1,23 @@
+.content{
+	width:697px;
+	height:520px;
+}
+.lowertframe{
+	width:697px;
+	height:auto;
+	float:both;
+	overflow: hidden;
+}
+.frame{
+	width:610px;
+	height:500px;
+}
+.uper{
+	width:600px;
+	height:auto;
+	float:both;
+}
+li{
+	padding:3px;
+}
+

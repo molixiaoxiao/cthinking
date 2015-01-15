@@ -1,0 +1,1631 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="syllabus.files/filelist.xml">
+<link rel=dataStoreItem href="syllabus.files/item0007.xml"
+target="syllabus.files/props008.xml">
+<link rel=themeData href="syllabus.files/themedata.thmx">
+<link rel=colorSchemeMapping href="syllabus.files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="0" Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+  {font-family:宋体;
+  panose-1:2 1 6 0 3 1 1 1 1 1;
+  mso-font-alt:SimSun;
+  mso-font-charset:134;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+  {font-family:宋体;
+  panose-1:2 1 6 0 3 1 1 1 1 1;
+  mso-font-alt:SimSun;
+  mso-font-charset:134;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+  {font-family:"\@宋体";
+  panose-1:2 1 6 0 3 1 1 1 1 1;
+  mso-font-charset:134;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+  {font-family:华文行楷;
+  panose-1:2 1 8 0 4 1 1 1 1 1;
+  mso-font-charset:134;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:1 135200768 16 0 262144 0;}
+@font-face
+  {font-family:"\@华文行楷";
+  panose-1:2 1 8 0 4 1 1 1 1 1;
+  mso-font-charset:134;
+  mso-generic-font-family:auto;
+  mso-font-pitch:variable;
+  mso-font-signature:1 135200768 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+  {mso-style-unhide:no;
+  mso-style-qformat:yes;
+  mso-style-parent:"";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  line-height:150%;
+  mso-pagination:widow-orphan;
+  font-size:10.0pt;
+  font-family:"Times New Roman","serif";
+  mso-fareast-font-family:宋体;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+  {mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-link:"页眉 Char";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  mso-pagination:widow-orphan;
+  tab-stops:center 207.65pt right 415.3pt;
+  layout-grid-mode:char;
+  border:none;
+  mso-border-bottom-alt:solid windowtext .75pt;
+  padding:0cm;
+  mso-padding-alt:0cm 0cm 1.0pt 0cm;
+  font-size:9.0pt;
+  font-family:"Times New Roman","serif";
+  mso-fareast-font-family:宋体;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+  {mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-link:"页脚 Char";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  tab-stops:center 207.65pt right 415.3pt;
+  layout-grid-mode:char;
+  font-size:9.0pt;
+  font-family:"Times New Roman","serif";
+  mso-fareast-font-family:宋体;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+  {mso-style-noshow:yes;
+  mso-style-link:"批注框文本 Char";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:justify;
+  text-justify:inter-ideograph;
+  mso-pagination:none;
+  font-size:9.0pt;
+  font-family:"Times New Roman","serif";
+  mso-fareast-font-family:宋体;
+  mso-font-kerning:1.0pt;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+  {mso-style-priority:34;
+  mso-style-unhide:no;
+  mso-style-qformat:yes;
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-indent:21.0pt;
+  mso-char-indent-count:2.0;
+  line-height:150%;
+  mso-pagination:widow-orphan;
+  font-size:10.0pt;
+  font-family:"Times New Roman","serif";
+  mso-fareast-font-family:宋体;}
+span.Char
+  {mso-style-name:"页眉 Char";
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-unhide:no;
+  mso-style-locked:yes;
+  mso-style-link:页眉;
+  mso-ansi-font-size:9.0pt;
+  mso-bidi-font-size:9.0pt;
+  font-family:"Times New Roman","serif";
+  mso-ascii-font-family:"Times New Roman";
+  mso-fareast-font-family:宋体;
+  mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";}
+span.Char0
+  {mso-style-name:"页脚 Char";
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-unhide:no;
+  mso-style-locked:yes;
+  mso-style-link:页脚;
+  mso-ansi-font-size:9.0pt;
+  mso-bidi-font-size:9.0pt;
+  font-family:"Times New Roman","serif";
+  mso-ascii-font-family:"Times New Roman";
+  mso-fareast-font-family:宋体;
+  mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";}
+span.Char1
+  {mso-style-name:"批注框文本 Char";
+  mso-style-noshow:yes;
+  mso-style-unhide:no;
+  mso-style-locked:yes;
+  mso-style-link:批注框文本;
+  mso-ansi-font-size:9.0pt;
+  mso-bidi-font-size:9.0pt;
+  font-family:"Times New Roman","serif";
+  mso-ascii-font-family:"Times New Roman";
+  mso-fareast-font-family:宋体;
+  mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";
+  mso-font-kerning:1.0pt;}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+  {mso-style-name:msochpdefault;
+  mso-style-unhide:no;
+  mso-margin-top-alt:auto;
+  margin-right:0cm;
+  mso-margin-bottom-alt:auto;
+  margin-left:0cm;
+  mso-pagination:widow-orphan;
+  font-size:12.0pt;
+  font-family:"Arial","sans-serif";
+  mso-fareast-font-family:宋体;}
+p.msopapdefault, li.msopapdefault, div.msopapdefault
+  {mso-style-name:msopapdefault;
+  mso-style-unhide:no;
+  mso-margin-top-alt:auto;
+  margin-right:0cm;
+  mso-margin-bottom-alt:auto;
+  margin-left:0cm;
+  line-height:150%;
+  mso-pagination:widow-orphan;
+  font-size:12.0pt;
+  font-family:宋体;
+  mso-bidi-font-family:宋体;}
+span.SpellE
+  {mso-style-name:"";
+  mso-spl-e:yes;}
+span.GramE
+  {mso-style-name:"";
+  mso-gram-e:yes;}
+.MsoChpDefault
+  {mso-style-type:export-only;
+  mso-default-props:yes;
+  font-size:10.0pt;
+  mso-ansi-font-size:10.0pt;
+  mso-bidi-font-size:10.0pt;
+  font-family:"Arial","sans-serif";
+  mso-ascii-font-family:Arial;
+  mso-hansi-font-family:Arial;
+  mso-bidi-font-family:Arial;
+  mso-font-kerning:0pt;}
+ /* Page Definitions */
+ @page
+  {mso-footnote-separator:url("syllabus.files/header.htm") fs;
+  mso-footnote-continuation-separator:url("syllabus.files/header.htm") fcs;
+  mso-endnote-separator:url("syllabus.files/header.htm") es;
+  mso-endnote-continuation-separator:url("syllabus.files/header.htm") ecs;}
+@page WordSection1
+  {size:595.3pt 841.9pt;
+  margin:72.0pt 90.0pt 72.0pt 90.0pt;
+  mso-header-margin:42.55pt;
+  mso-footer-margin:49.6pt;
+  mso-paper-source:0;
+  layout-grid:15.6pt;}
+div.WordSection1
+  {page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+  {mso-style-name:普通表格;
+  mso-tstyle-rowband-size:0;
+  mso-tstyle-colband-size:0;
+  mso-style-noshow:yes;
+  mso-style-priority:99;
+  mso-style-parent:"";
+  mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+  mso-para-margin:0cm;
+  mso-para-margin-bottom:.0001pt;
+  mso-pagination:widow-orphan;
+  font-size:10.0pt;
+  font-family:"Arial","sans-serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2049"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:22.0pt;line-height:150%;font-family:华文行楷;mso-hansi-font-family:
+Arial'>《大学计算机基础》课程教学大纲</span></b><span lang=EN-US style='font-family:华文行楷;
+mso-hansi-font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>课程编号：</span><span
+lang=EN-US style='font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>学</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>分：</span><span lang=EN-US style='font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> 2</span><span
+lang=EN-US style='font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>总学</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>时：</span><span lang=EN-US style='font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> 40 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>（讲课学时：</span><span lang=EN-US
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'>20&nbsp;&nbsp;&nbsp;
+</span><span style='font-size:10.5pt;line-height:150%;font-family:宋体;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>上机学时：</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'>
+20 </span><span style='font-size:10.5pt;line-height:150%;font-family:宋体;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>）</span><span
+lang=EN-US style='font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>先修课程：无</span><span
+lang=EN-US style='font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>适用专业：非计算机专业</span><span
+lang=EN-US style='font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>教</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>材：<span class=GramE>兰顺碧</span></span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>等</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif"'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>编著</span><span lang=EN-US style='font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> . </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>《大学计算机基础（第二版）》</span><span lang=EN-US
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'> . </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>邮电出版社</span><span lang=EN-US
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif"'>
+.2008.7</span><span lang=EN-US style='font-family:"Arial","sans-serif";
+mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>开课院系：网络与计算中心</span><span
+lang=EN-US style='font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:14.0pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>一、</span></b><b><span style='font-size:14.0pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b><span
+style='font-size:14.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>课程的性质和任务</span></b><b><span
+style='font-size:14.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0'><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>“大学计算机基础”是理工科非计算机类各专业</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>的计算机公共基础课程，为</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>必修课。</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>课程</span><span style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>的任务是</span><span style='font-size:10.5pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>较全面、概括性地讲述计算机科学与技术学科中的一些基础性知识和重要概念，主要包括：</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>&#8226;</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>&nbsp; </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>了解计算机的硬件结构与组成原理；</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>&#8226;</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>&nbsp; </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>了解操作系统的概念与其中一些重要概念；</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>&#8226;</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>&nbsp; </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>了解计算机网络、数据库、多媒体等技术基本概念、相关技术和应用领域；</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>&#8226;</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>&nbsp; </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>掌握计算机基本应用技能。包括常用操作系统和办公软件的安装、配置和基本使用方法，网络的连接与设置和常用网络软件的使用。</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0'><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>学生通过该课程的学习，应能在一个较高的层次上利用计算机、认识并处理计算机应用中可能出现的问题，并且能够在各自的专业中能够有意识的借鉴、引入计算机科学中的一些理念、技术和方法。</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:14.0pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>二</span></b><b><span style='font-size:14.0pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b><span
+style='font-size:14.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、</span></b><b><span
+style='font-size:14.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span></b><b><span style='font-size:14.0pt;
+line-height:150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:宋体'>课程的基本内容及要求</span></b><b><span style='font-size:
+14.0pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'> <span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>第一章</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>计算机基础知识</span></b><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>（</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> 4 </span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>学时）</span><span style='font-size:10.5pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> <span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、教学内容</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）计算机系统的组成与工作原理</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）计数制及转换与运算</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）数据在计算机中的表示</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>,</span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>整数的原码、反码、补码</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、基本要求</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解计算机系统的基本组成</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'>2</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解计算机基本工作方式</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'>3</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解数制转换及运算</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'>4</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解信息在计算机内的表示与存储方式</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>第二章</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>计算机软件应用基础</span></b><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>（</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 6 </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>学时）</span></b><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、教学内容</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:
+"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span lang=EN-US
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>1</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'> </span><span style='font-size:10.5pt;line-height:150%;font-family:宋体;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>）计算机软件概述</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>）操作系统概述</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2.1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> Windows </span><span style='font-size:10.5pt;
+line-height:150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:宋体'>操作系统</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2.2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US>Linux </span></span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>操作系统</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）电子表格软件</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、基本要求</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解软件的分类及常用软件的功能</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解操作系统的发展及分类</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解操作系统的主要管理功能（进程管理、存储管理、设备管理）</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解文件、目录及路径的概念、理解文件系统的工作方式</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>第三章</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>网络基础与</span></b><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>Internet </span></b><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;line-height:150%;font-family:宋体;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span></b><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> 4 </span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>学时）</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> <span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、教学内容</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）计算机网络概述</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）计算机局域网网络的硬件与软件组成</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>Internet</span><span style='font-size:10.5pt;
+line-height:150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:宋体'>接入方式</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US>Internet </span></span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>基本服务功能（</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>WWW</span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>、</span><span lang=EN-US style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>FTP</span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>MAIL</span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>）</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:
+"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span lang=EN-US
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>5</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'> </span><span style='font-size:10.5pt;line-height:150%;font-family:宋体;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>）网络信息搜索</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、基本要求</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解计算机网络的作用</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解局域网的基本组成和一般工作方式</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解常用的计算机网络传输介质</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解常用网络连接设备的功能（网卡、集线器、调制解调器、路由器）</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 5 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）掌握</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>Internet</span><span style='font-size:10.5pt;
+line-height:150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:宋体'>的连接与设置</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 6 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解因特网的作用及<span
+class=GramE>典型服务</span>类型</span><span style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 7 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> MAC </span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>地址、</span><span lang=EN-US style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> IP </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>地址、域名</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 8 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）掌握浏览器的使用及基本的网络信息检索方法</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 9 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）掌握电子邮件的使用</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>第四章</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>数据库技术基础</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>（</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>学时）</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、教学内容</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）数据库系统概述</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）数据模型和关系模型基本术语</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>（</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'> 3 </span><span style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>）</span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>结构化查询语言（</span><span lang=EN-US style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>select</span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>为主）</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>（</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'> 4 </span><span style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>）</span><span lang=EN-US style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>Access</span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>数据库的建立与维护</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、基本要求</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解数据库系统的功能与基本组成</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解常见数据库管理系统的特点</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解概念模型及常见数据模型</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解建立关系数据库系统的步骤</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 5 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解数据库在管理信息系统中的应用</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 6 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解结构化查询语言</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>-SELECT</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>（</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'> 7 </span><span style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>）</span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>了解</span><span lang=EN-US style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>
+Access </span><span style='font-size:10.5pt;line-height:150%;font-family:宋体;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>数据库的使用</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>第五章</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>多媒体技术基础</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>（</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>学时）</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、教学内容</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）多媒体技术的基本概念</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）多媒体计算机系统</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）多媒体信息的数字化和压缩技术</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）多媒体素材制作</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>（</span><span class=SpellE><span lang=EN-US
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>photoshop</span></span><span style='font-size:10.5pt;
+line-height:150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:宋体'>）</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、基本要求</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解多媒体信息的计算机表示方法</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解多媒体计算机系统的基本组成</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）理解多媒体信息（声音、图像）的采集与数字化的基本过程</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 4 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解多媒体信息（声音合成、声音片段截取、图像合成、图像放大缩小）的基本处理方法</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 5 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解动画制作的基本过程</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 6 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解多媒体系统的典型应用</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:14.0pt;line-height:150%;
+font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+mso-bidi-font-family:宋体'>二、</span></b><b><span style='font-size:14.0pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span></b><b><span
+style='font-size:14.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>大纲说明</span></b><b><span
+lang=EN-US style='font-size:14.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'>1 </span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>、教学方法与手段</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> <span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>本课程的教学采用课堂讲授和上机操作相结合的方式进行。</span><span style='font-size:10.5pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> <span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>本课程大部分内容的讲授需要采用现代化教学手段来实施，即需要教师制作多媒体课件并采用大屏幕投影方式进行实时教学，以适应计算机教学的特殊性，从而保证必需的教学效果与质量。</span><i
+style='mso-bidi-font-style:normal'><span style='font-size:10.5pt;line-height:
+150%;font-family:宋体;mso-bidi-font-family:宋体'> </span></i><i style='mso-bidi-font-style:
+normal'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;
+font-family:宋体;mso-bidi-font-family:宋体'><o:p></o:p></span></i></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-bidi-font-family:
+宋体'>2 </span></b><b style='mso-bidi-font-weight:normal'><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体;mso-bidi-font-family:宋体'>、教学内容说明 <span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>&#8226;</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>&nbsp; </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>下列内容为可选内容，教师可根据学生的学习情况和上机条件在总学时内选讲。</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 1 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解网络信息发布的基本技术</span><span
+style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> </span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:
+宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 2 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解声音、图像的获取和处理方法（如</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> Windows </span><span style='font-size:10.5pt;
+line-height:150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:宋体'>录音机、画图）</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>（</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 3 </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>）了解</span><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'> FLASH </span><span style='font-size:10.5pt;
+line-height:150%;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial;mso-bidi-font-family:宋体'>的使用方法</span><span style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-bidi-font-family:
+宋体'>3 </span></b><b style='mso-bidi-font-weight:normal'><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体;mso-bidi-font-family:宋体'>、 考查方法手段 <span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal><span style='font-size:10.5pt;line-height:150%;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>笔试与实验作业相结合，其中笔试占</span><span lang=EN-US style='font-size:10.5pt;line-height:
+150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 50~60% </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>，实验<span
+class=GramE>作业占</span></span><span lang=EN-US style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'>
+50~40% </span><span style='font-size:10.5pt;line-height:150%;font-family:宋体;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+宋体'>，平时成绩占</span><span lang=EN-US style='font-size:10.5pt;line-height:150%;
+font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'> 10-20% </span><span
+style='font-size:10.5pt;line-height:150%;font-family:宋体;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:宋体'>，具体比例由课程小组确定。试题由课题小组统一命题。</span><i
+style='mso-bidi-font-style:normal'><span lang=EN-US style='font-size:10.5pt;
+line-height:150%;font-family:"Arial","sans-serif";mso-bidi-font-family:宋体'><span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></i><span
+lang=EN-US style='font-size:10.5pt;line-height:150%;font-family:"Arial","sans-serif";
+mso-bidi-font-family:宋体'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

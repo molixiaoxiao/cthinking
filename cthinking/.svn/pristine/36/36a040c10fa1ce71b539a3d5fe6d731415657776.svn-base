@@ -1,0 +1,58 @@
+.div-head{
+	background-color: #788df2;
+	color: #ffffff;
+	font-weight: bolder;
+	text-align: left;
+	padding: 3px;
+	width: 995px;
+}
+
+.taolun{
+	font-size: 18px;
+}
+
+.gentie{
+	margin-left: 650px;
+	color: #0621ec;
+	font-size: 18px;
+}
+
+.div-form{
+	border: 1px solid #429fff;
+	border-collapse: collapse;
+	width: 1000px;
+}
+
+.div-author{
+	width: 130px;
+	float: left;
+	text-align: left;
+	padding: 15px 0;
+}
+
+.p-nichen{
+	font-size: 14px;
+}
+
+.p-post-time{
+	font-size: 14px;
+}
+
+.div-content{
+	width: 800px;
+	padding-left: 50px;
+}
+
+.p-post-content{
+	font-size: 14px;
+	padding-left: 10px;
+	width: 500px;
+
+}
+
+
+
+
+
+
+

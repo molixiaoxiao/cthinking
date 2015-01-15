@@ -1,0 +1,559 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+		<title>问卷调查</title>
+
+		<link href="questionare/style.css" rel="stylesheet" type="text/css">
+		<script src="questionare/common.js"></script>
+		<style type="text/css">
+			.STYLE1 {
+				color: #000000
+			}
+
+			#votePagingDiv {
+				width: 200px;
+				margin: auto;
+				line-height: 40px;
+				CLEAR: both
+			}
+
+			#votePagingDiv a {
+				border: #eee 1px solid;
+				padding: 3px 5px;
+				TEXT-DECORATION: none
+			}
+
+			li {
+				margin: 0px;
+				padding: 0px;
+				list-style-type: none
+			}
+
+			ul {
+				margin: 0px;
+				padding: 0px;
+			}
+		</style>
+		<link type="text/css" rel="stylesheet"
+		href="questionare/NKgLogin111024.css">
+	</head>
+	<body>
+		<link rel="stylesheet" href="questionare/main.css" type="text/css">
+
+		<br>
+		<table width="950" border="0" align="center" cellpadding="0"
+			cellspacing="0" style="border: 1px solid #BDD9E6;">
+			<tbody>
+				<tr>
+					<td width="10" valign="top">
+						<img src="images/left.jpg" width="10" height="228" border="0">
+					</td>
+					<td width="925" valign="top">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr>
+									<td height="30"></td>
+								</tr>
+								<tr>
+									<td height="60" align="center" class="blue_title">
+										大学计算机基础问卷调查
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div id="public-nav" class="clear_fix">
+							<ul class="n1" id="ulHeader">
+								<li><a href="s_questionare.html" hidefocus="true" title="学生用户" onclick="sdnClick(12224)">学生问卷</a><span></span></li>
+								<li class="hover"><a href="t_questionare.html" hidefocus="true" onclick="sdnClick(12225)" title="教师用户">教师问卷</a><span></span></li>
+							</ul>
+
+						</div>
+						<br>
+
+
+
+
+						<div class="voteintro STYLE1">
+							感谢您登录此平台进行学习。请告知您对计算机基础课程的相关意见，以便我们能够及时更正和改进。非常感谢您提供反馈。
+						</div>
+
+						<form name="form_81" method="post"
+							onsubmit="return checkForm1(this);" action="tqSubmit.php">
+
+
+							<div id="voteLst">
+
+								<div id="paging_1" style="display: ">
+
+
+
+									<div class="voteitem" style="display: block" id="item_719">
+												<span class="votetitle STYLE1">Q1:您从事“大学计算机基础”或相关课程的时间？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_719"
+														id="isdisplay_719" value="block">
+														<input type="radio" name="vote719" value="A"
+															title="您从事“大学计算机基础”或相关课程的时间？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A．1-2年 <span class="STYLE1">&nbsp;&nbsp;&nbsp;</span> <input
+																type="radio" name="vote719" value="B"
+																title="您从事“大学计算机基础”或相关课程的时间？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B．3-5年 <span class="STYLE1">&nbsp;&nbsp;&nbsp;</span> <input
+																	type="radio" name="vote719" value="C"
+																	title="您从事“大学计算机基础”或相关课程的时间？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．6-10年 <span class="STYLE1">&nbsp;&nbsp;&nbsp;</span><input
+																		type="radio" name="vote719" value="D"
+																		title="您从事“大学计算机基础”或相关课程的时间？"
+																		onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																		D．10年以上 <span class="STYLE1">&nbsp;&nbsp;&nbsp;</span>
+									</div>
+									<div class="voteitem" style="display: block" id="item_720">
+												<span class="votetitle STYLE1">Q2:您的个人教育背景是？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_720"
+														id="isdisplay_720" value="block">
+														<input type="radio" name="vote720" value="A"
+															title="您的个人教育背景是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A． 计算机专业 <span class="STYLE1">&nbsp;&nbsp;&nbsp;</span> <input
+																type="radio" name="vote720" value="B"
+																title="您的个人教育背景是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B． 非计算机专业工科 <span class="STYLE1">&nbsp;&nbsp;&nbsp;</span>
+																<input type="radio" name="vote720" value="C"
+																	title="您的个人教育背景是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．非计算机专业文科 <span class="STYLE1">&nbsp;&nbsp;&nbsp;</span>
+											</div>
+									<div class="voteitem" style="display: block" id="item_721">
+												<span class="votetitle STYLE1">Q3:您对目前“大学计算机基础”课程在高校中开展现状的评价是？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_721"
+														id="isdisplay_721" value="block">
+														<input type="radio" name="vote721" value="A"
+															title="您对目前“大学计算机基础”课程在高校中开展现状的评价是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A．开展十分顺利<span class="STYLE1"><br>
+																	<br>
+															</span> <input type="radio" name="vote721" value="B"
+																title="您对目前“大学计算机基础”课程在高校中开展现状的评价是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B．开展顺利但也面临一些困难 <span class="STYLE1"><br>
+																		<br>
+																</span> <input type="radio" name="vote721" value="C"
+																	title="您对目前“大学计算机基础”课程在高校中开展现状的评价是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．开展比较困难 <span class="STYLE1"><br>
+																			<br>
+																	</span> <input type="radio" name="vote721" value=""
+																		title="您对目前“大学计算机基础”课程在高校中开展现状的评价是？"
+																		onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																		如有困难，请具体说明&nbsp;&nbsp;<input type="text" size="35"
+																			name="text721">
+
+																			<span class="STYLE1"><br>
+																					<br>
+																			</span>
+											</div>
+										<div class="voteitem" style="display: block" id="item_722">
+												<span class="votetitle STYLE1">Q4:您认为目前“大学计算机基础”课程在大学公共基础课程中的地位是？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_722"
+														id="isdisplay_722" value="block">
+														<input type="radio" name="vote722" value="A"
+															title="您对目前“大学计算机基础”课程在高校中开展现状的评价是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A． 与高数、物理和英语等基础课程一样，不可或缺<span class="STYLE1"><br>
+																	<br>
+															</span> <input type="radio" name="vote722" value="B"
+																title="您对目前“大学计算机基础”课程在高校中开展现状的评价是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B． 是重要的基础课程，但不如高数、物理和英语 <span class="STYLE1"><br>
+																		<br>
+																</span> <input type="radio" name="vote722" value="C"
+																	title="您对目前“大学计算机基础”课程在高校中开展现状的评价是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．不太受重视，可有可无 <span class="STYLE1"><br>
+																			<br>
+																	</span>
+											</div>	
+											<div class="voteitem" style="display: block" id="item_723">
+												<span class="votetitle STYLE1">Q5:您认为学生目前对“大学计算机基础”课程的态度是？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_723"
+														id="isdisplay_723" value="block">
+														<input type="radio" name="vote723" value="A"
+															title="您认为学生目前对“大学计算机基础”课程的态度是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A． 认为其实非常重要的基础课程，受益良多<span class="STYLE1"><br>
+																	<br>
+															</span> <input type="radio" name="vote723" value="B"
+																title="您认为学生目前对“大学计算机基础”课程的态度是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B． 对计算机感兴趣，希望能从课程中学会如何使用 <span class="STYLE1"><br>
+																		<br>
+																</span> <input type="radio" name="vote723" value="C"
+																	title="您认为学生目前对“大学计算机基础”课程的态度是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．因为是必修课程，不得不学 <span class="STYLE1"><br>
+																			<br>
+																	</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_724">
+												<span class="votetitle STYLE1">Q6:您认为“大学计算机基础”课程的主要目标应该是:【可多选】</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_724"
+														id="isdisplay_724" value="block">
+														<input type="checkbox" name="vote724e[]" value="A"
+															title="您认为“大学计算机基础”课程的主要目标应该是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+															A． 教会学生如何使用计算机及常用软件工具 <span class="STYLE1"><br>
+																	<br>
+															</span> <input type="checkbox" name="vote724e[]" value="B"
+																title="您认为“大学计算机基础”课程的主要目标应该是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																B． 培养学生使用计算机进行信息检索和处理的能力<span class="STYLE1"><br>
+																		<br>
+																</span> <input type="checkbox" name="vote724e[]" value="C"
+																	title="您认为“大学计算机基础”课程的主要目标应该是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．培养学生运用计算机科学的基础概念求解问题的能力 <span class="STYLE1"><br>
+																			<br>
+																	</span> <input type="checkbox" name="vote724e[]" value=""
+																		title="您认为“大学计算机基础”课程的主要目标应该是？"
+																		onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																		D．其他，请具体说明&nbsp;&nbsp;<input type="text" size="35"
+																			name="text724">
+
+																			<span class="STYLE1"><br>
+																					<br>
+																			</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_725">
+												<span class="votetitle STYLE1">Q7:您认为目前的“大学计算机基础”课程可以实现问题6中的那些目标？</span>
+												<br>
+													<input type="text" size="80" name="text725">
+														<span class="STYLE1"><br>
+																<br>
+														</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_726">
+												<span class="votetitle STYLE1">Q8:您认为自己对“计算思维（Computational
+													Thinking）”这一概念的了解程度是？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_726"
+														id="isdisplay_726" value="block">
+														<input type="radio" name="vote726" value="A"
+															title="您认为自己对“计算思维（Computational Thinking）”这一概念的了解程度是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A． 非常了解<span class="STYLE1"><br>
+																	<br>
+															</span> <input type="radio" name="vote726" value="B"
+																title="您认为自己对“计算思维（Computational Thinking）”这一概念的了解程度是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B． 有一定程度的了解 <span class="STYLE1"><br>
+																		<br>
+																</span> <input type="radio" name="vote726" value="C"
+																	title="您认为自己对“计算思维（Computational Thinking）”这一概念的了解程度是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．听说过这一概念 <span class="STYLE1"><br>
+																			<br>
+																	</span> <input type="radio" name="vote726" value="D"
+																		title="您认为自己对“计算思维（Computational Thinking）”这一概念的了解程度是？"
+																		onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																		D．从未听说过这一概念 <span class="STYLE1"><br>
+																				<br>
+																		</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_727">
+												<span class="votetitle STYLE1">Q9:您如何看待“计算思维”？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_727"
+														id="isdisplay_727" value="block">
+														<input type="radio" name="vote727" value="A"
+															title="您如何看待“计算思维”？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A.“计算思维”是对计算机科学主要思想和方法论的总结，意义重大<span class="STYLE1"><br>
+																	<br>
+															</span> <input type="radio" name="vote727" value="B"
+																title="您如何看待“计算思维”？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B.“计算思维”有一定的意义，但目前范畴仍不明确 <span class="STYLE1"><br>
+																		<br>
+																</span> <input type="radio" name="vote727" value="C"
+																	title="您如何看待“计算思维”？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C.“计算思维”只是一个概念上的炒作，没有实际意义 <span class="STYLE1"><br>
+																			<br>
+																	</span> <input type="radio" name="vote727" value=""
+																		title="您如何看待“计算思维”？"
+																		onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																		其他，请具体说明&nbsp;&nbsp;<input type="text" size="35"
+																			name="text727">
+
+																			<span class="STYLE1"><br>
+																					<br>
+																			</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_728">
+												<span class="votetitle STYLE1">Q10:就目前国内、外多位专家提出的应以“计算思维”的培养作为“计算机基础”课程的主要目标，您的态度是？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_728"
+														id="isdisplay_728" value="block">
+														<input type="radio" name="vote728" value="A"
+															title="就目前国内、外多位专家提出的应以“计算思维”的培养作为“计算机基础”课程的主要目标，您的态度是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A． 非常赞同<span class="STYLE1"><br>
+																	<br>
+															</span> <input type="radio" name="vote728" value="B"
+																title="就目前国内、外多位专家提出的应以“计算思维”的培养作为“计算机基础”课程的主要目标，您的态度是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B． 赞同 <span class="STYLE1"><br>
+																		<br>
+																</span> <input type="radio" name="vote728" value="C"
+																	title="就目前国内、外多位专家提出的应以“计算思维”的培养作为“计算机基础”课程的主要目标，您的态度是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．不赞同 <span class="STYLE1"><br>
+																			<br>
+																	</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_729">
+												<span class="votetitle STYLE1">Q11:您如何看待将“计算思维”与“大学计算机基础”结合？</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_729"
+														id="isdisplay_729" value="block">
+														<input type="radio" name="vote729" value="A"
+															title="您如何看待将“计算思维”与“大学计算机基础”结合？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+															A．很有意义，能更好地促进课程的发展，提高课程地位<span class="STYLE1"><br>
+																	<br>
+															</span> <input type="radio" name="vote729" value="B"
+																title="您如何看待将“计算思维”与“大学计算机基础”结合？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																B．有一定的意义，能够在一定程度上解决目前课程遇到的困难 <span class="STYLE1"><br>
+																		<br>
+																</span> <input type="radio" name="vote729" value="C"
+																	title="您如何看待将“计算思维”与“大学计算机基础”结合？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．没有什么意义 <span class="STYLE1"><br>
+																			<br>
+																	</span> <input type="radio" name="vote729" value=""
+																		title="您如何看待将“计算思维”与“大学计算机基础”结合？"
+																		onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																		D．其他，请具体说明&nbsp;&nbsp;<input type="text" size="35"
+																			name="text729">
+
+																			<span class="STYLE1"><br>
+																					<br>
+																			</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_730">
+												<span class="votetitle STYLE1">Q12:您认为目前将“计算思维”的培养作为“大学计算机基础”课程的主要目标，主要的障碍在于:【可多选】</span>
+												<br>
+
+													<input type="hidden" name="isdisplay_730"
+														id="isdisplay_730" value="block">
+														<input type="checkbox" name="vote730e[]" value="A"
+															title="您认为“大学计算机基础”课程的主要目标应该是？"
+															onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+															A．学生的基础 <span class="STYLE1"><br>
+																	<br>
+															</span> <input type="checkbox" name="vote730e[]" value="B"
+																title="您认为“大学计算机基础”课程的主要目标应该是？"
+																onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																B．教师的认识和能力<span class="STYLE1"><br>
+																		<br>
+																</span> <input type="checkbox" name="vote730e[]" value="C"
+																	title="您认为“大学计算机基础”课程的主要目标应该是？"
+																	onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																	C．教学内容的改革<span class="STYLE1"><br>
+																			<br>
+																	</span><input type="checkbox" name="vote730e[]" value="D"
+																		title="您认为“大学计算机基础”课程的主要目标应该是？"
+																		onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																		D．学生的接受度<span class="STYLE1"><br>
+																				<br>
+																		</span><input type="checkbox" name="vote730e[]" value="E"
+																			title="您认为“大学计算机基础”课程的主要目标应该是？"
+																			onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																			E．没有合适的教材<span class="STYLE1"><br>
+																					<br>
+																			</span><input type="checkbox" name="vote730e[]" value="F"
+																				title="您认为“大学计算机基础”课程的主要目标应该是？"
+																				onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																				F．课程评价体系 <span class="STYLE1"><br>
+																						<br>
+																				</span> <input type="checkbox" name="vote730e[]" value=""
+																					title="您认为“大学计算机基础”课程的主要目标应该是？"
+																					onclick="progress();ShowNextVote(&#39;0|0|0|0|0|0|0&#39;,&#39;0&#39;);">
+																					G．其他，请具体说明&nbsp;&nbsp;<input type="text" size="35"
+																						name="text730">
+
+																						<span class="STYLE1"><br>
+																								<br>
+																						</span>
+											</div>
+											<div class="voteitem" style="display: block" id="item_731">
+												<span class="votetitle STYLE1">Q13：对于基于“计算思维”的“大学计算机基础”课程改革，您的意见和建议:</span>
+												<br>
+													<input type="text" size="80" name="text731">
+														<span class="STYLE1"><br>
+																<br>
+														</span>
+											</div>
+									
+									</div>
+
+
+									<input type="hidden" name="version" value="6227">
+									<input type="hidden" name="channelID" value="1141">
+								</div>
+
+								<div style="float: right; margin: 20px 20px 0px 0px;">
+									<span style="float: left; padding: 0px 10px; margin: 0px 15px">当前进度：&nbsp;</span>
+									<div
+										style="BACKGROUND: #f2f2f2; WIDTH: 200px; HEIGHT: 15px; line-height: 15px; float: left">
+										<img id="processImg" src="questionare/progress.gif"
+										height="15px" style="width: 20px;">
+									</div>
+									<span id="rateSp">0%</span>
+								</div>
+
+								<div id="votePagingDiv">
+									<a disabled="true">上一页</a>&nbsp;第
+									<font color="red">1</font>页/共
+									<font color="red">1</font>页&nbsp;
+									<a disabled="true">下一页</a>
+								</div>
+								<input type="hidden" id="txtUseTime" name="txtUseTime"
+								value="51">
+								<div style="margin: 35px 0 20px; text-align: center;">
+									<input type="hidden" name="SurveyID" value="81">
+									<input id="btnSubmit" type="submit" value="提 交" name = "submit"
+									style="width: 80px; display: ">
+									&nbsp;&nbsp;
+								</div>
+							</form>
+						</td>
+						<td width="13" valign="top">
+							<img src="images/right.jpg" width="10" height="228" border="0">
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<script type="text/javascript">
+
+				var times=0;
+				window.setInterval("getTime()", 1000);
+				function getTime(){
+					document.getElementById("txtUseTime").value =times++;
+
+				}
+
+
+
+				var totalCount =10;
+				var pageCount =1;
+
+				function progress(){
+
+					var checkBoxVote ={};
+					var curCount=0;
+					var tags = document.getElementsByTagName("input");
+					for (var i = 0; i < tags.length; i++) {
+						if (tags[i].type == "radio") {
+							if (tags[i].checked == true) {
+								curCount++;
+							}
+						}else if(tags[i].type=="checkbox"){
+							if(tags[i].checked == true){
+								if(checkBoxVote[tags[i].name]==undefined){
+									checkBoxVote[tags[i].name]=1;
+									curCount++;
+								}
+							}
+						}
+					}
+					var tags2 = document.getElementsByTagName("textarea");
+					for (var i = 0; i < tags2.length; i++) {
+						if(tags2[i].name!="Content" &&tags2[i].value.length!=0 ){
+							curCount++;
+						}
+					}
+
+					if(curCount<=totalCount)
+					{
+						document.getElementById("processImg").style.width=curCount*200/totalCount+"px";
+
+						var val = curCount*50 /totalCount;
+						var vals = val.toString().split(".");
+						var Percent;
+						if(vals.length==2){
+							Percent =vals[0]+"." ;
+							Percent += vals[1].length>2 ? vals[1].substring(0,2) : vals[1];
+						}else{
+							Percent = vals[0];
+						}
+
+						document.getElementById("rateSp").innerHTML = Percent+"%";
+					}
+				}
+
+				function ShowVoteToNext(topPid,idx,pid,count){
+					//debugger;
+					var pObj =document.getElementById(topPid);
+					if(pObj){
+						var voteDiv = pObj.childNodes;
+						for(var i=0;i<voteDiv.length;i++){
+							if(voteDiv[i].nodeType　==　1){
+								if(voteDiv[i].id!=pid && voteDiv[i].id!=""){
+									var ulObj = voteDiv[i].getElementsByTagName("ul");
+									if(ulObj){
+										var inputObj = ulObj[0].getElementsByTagName("input");
+										if(inputObj){
+											var curPObj = document.getElementById(pid);
+											var curUlObj = curPObj.getElementsByTagName("ul");
+											if(curUlObj){
+												var curInputObj = curUlObj[0].getElementsByTagName("input");
+
+												if(curInputObj){
+													for(var j=0;j<curInputObj.length;j++){
+														if(curInputObj[j].checked){
+															inputObj[j].disabled = false;
+														}else{
+															inputObj[j].checked = false;
+															inputObj[j].disabled = true;
+														}
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			</script>
+
+			<script>
+				function go(vote715) {
+					window.location.href = vote715;
+				}
+			</script>
+		</body>
+	</html>

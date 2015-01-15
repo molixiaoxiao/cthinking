@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+
+</head>
+<body>
+	<?php
+			//显示所有已上传的文件列表
+			include "../sqlclass/sqlclass.php";
+			$mysql = new mySql();
+			$sql = "select * from tb_reply";
+			$mysql->query($sql);
+			$resInfo = $mysql->getnext();
+
+			echo "<table width=\"750px\" border=\"1\" align=\"center\" class=\"studentqa\" cellpadding=\"0\" cellspacing=\"1\" bordercolor=\"#FFFFFF\" bgcolor=\"#6EBEC7\" >";
+			echo "<tr height=\"30px\">
+					<th align=\"left\" width=\"50px\">$resInfo->title_id</th>
+				";
+
+			while ($resInfo != '0') {
+				
+				echo "<td align=\"center\">".$resInfo->content."</td>";
+				echo "</tr>";
+				echo "<a href=\"postInfo.php\" class=\"post_reply\">回复</a>";
+				$resInfo = $mysql->getnext();
+			}
+			echo "</table>";
+			$mysql->close();
+	?>
+	
+</body>
+</html>

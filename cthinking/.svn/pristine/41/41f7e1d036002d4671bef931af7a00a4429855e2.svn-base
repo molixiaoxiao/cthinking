@@ -1,0 +1,131 @@
+.div-head{
+	background-color: #788df2;
+	color: #ffffff;
+	font-weight: bolder;
+	text-align: left;
+	padding: 3px;
+	width: 1000px;
+}
+
+.taolun{
+	font-size: 18px;
+}
+
+.gentie{
+	margin-left: 650px;
+	color: #0621ec;
+	font-size: 18px;
+}
+
+.div-form{
+	border: 1px solid #ADC7E2;
+	border-collapse: collapse;
+	width: 1000px;
+	height:auto;
+	min-height:800px;
+}
+.one-post{
+	 border: 1px solid #ADC7E2;
+	top:100px;
+	height:auto;
+	width: 1000px;
+	min-height:400px;
+}
+.div-left{
+	
+	width: 20%;
+	float: left;
+	float: top;
+	height: auto;
+}
+
+.div-right{
+    border: 1px solid #ADC7E2;	
+	float: right;
+	float: top;
+	width: 80%;
+	min-height:400;
+	height:auto;
+}
+
+.div-nickname{
+	
+	width: 130px;
+	height: 200px;
+	float: left;
+	text-align: center;
+	padding: 15px 0;
+}
+
+.div-discuss{
+	width: 799px;
+	height: 80px;
+	float: left;
+	font-size: 20px;
+	color: rgb(30, 30, 240);
+	text-align: left;
+	padding: 15px 0;
+}
+
+.div-posttime{
+	width: 180px;
+	float: left;
+	margin-left: 570px;
+	padding: 15px 0;
+}
+
+.div-btn-huifu{
+	width: 50px;
+	float: left;
+	margin-left: 1px;
+	padding: 15px 0;
+}
+.div-post{
+	width: 850px;
+	float:left;
+	height:auto;
+}
+.reply-area{
+	width:850px;
+	height:auto;
+}
+.p-nichen{
+	font-size: 14px;
+}
+
+.p-post-time{
+	font-size: 14px;
+}
+
+.div-content{
+	width: 800px;
+	padding-left: 50px;
+}
+
+.p-post-content{
+	font-size: 14px;
+	padding-left: 10px;
+	width: 500px;
+
+}
+
+
+#huifu{
+	width:100%;
+	
+}
+
+
+
+
+#gen{
+	width:73%;
+	margin-left:180px;
+	margin-top:30px;
+}
+#button1
+{
+	margin-top:30px;
+	width:200px;
+	margin-left:200px;
+}

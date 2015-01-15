@@ -1,0 +1,243 @@
+
+<?php
+	if(!session_id()){
+		session_start();
+	}
+	$in = false;
+	if(isset($_SESSION['nickname'])){
+		$username= $_SESSION['nickname'];
+	}else{
+		$username = '';
+	}
+	//判断是否登录
+	if(isset($_SESSION['in'])){
+		$in = $_SESSION['in'];
+	}
+?>
+
+<style type="text/css">
+.div_height{clear: both;width: 1000px;min-height:600px;background-color: #0000;}
+</style>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>学生答疑</title>
+		<link href="../style.css" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="../css/lrtk.css" />
+		<link rel="stylesheet" href="../css/postInfo.css" />
+		<link href="../css/cupertino/jquery-ui-1.8.18.custom.css" rel="stylesheet" />
+		<script type="text/javascript" src="../js/jquery.js"></script>
+		<script type="text/javascript" src="../js/jquery.imgbox.pack.js"></script>
+		<script type="text/javascript" src="../js/works.js"></script>
+		<script type="text/javascript" src="../js/login.js"></script>
+		<script type="text/javascript" src="../js/demo.js"></script>
+		<script type="text/javascript" src="../js/jquery-ui-1.8.18.custom.min.js"></script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!--script type="text/javascript"> 
+		$(document).ready(function(){
+		  $(".post_reply1").click(function(){
+		    $(".panel_reply1").slideDown("slow");
+		  });
+		});
+		</script-->
+<!-- 		<style type="text/css"> 
+		tr.panel_reply1
+		{
+		height:120px;
+		display:none;
+		}
+		</style> -->
+		<script type="text/javascript">
+		function check(){ //为用户名id值(获得是object对象)
+			var name = document.getElementById("reply_content1"); //或者,form1是<form>标签的name值，username为用户名的name值 //
+			//var name = form1.username;
+			if(name.value == null){ alert("用户名不能为空！"); 
+				return false; } //form1是<form>标签的name值 
+			form1.submit();}
+		</script>
+
+	</head>
+	<body>
+		<div id="outside">
+		    <div class="box">
+		        <div class="top" id="top">
+				    <div class="ueser_loginout">
+						<span class="wel"><a>Hi, 欢迎您！</a>	
+						<?php 
+							if($in){
+								echo $username;
+						?>
+						</span>
+						<span title="退出" class="logoutspan">退出</span> 
+						<?php
+						}else {
+							?>
+							<span title="登录" class="loginspan" >登录</span>　|
+							<a href="../register/register.php" target="_blank" title="注册">注册</a>　|　
+							<a href="../php/forgetpassword.php" target="_blank" title="忘记密码">忘记密码</a>	
+							<?php 
+						}
+						?>	
+				    </div>
+		      	</div>	
+		    </div>	
+		</div>	
+	<body>
+	
+	<?php
+		if(!session_id()){
+			session_start();
+		}
+		$in = false;
+		if(isset($_SESSION['nickname'])){
+			$username= $_SESSION['nickname'];
+		}else{
+			$username = '';
+		}
+		//判断是否登录
+		if(isset($_SESSION['in'])){
+			$in = $_SESSION['in'];
+		}
+		if(!$in)
+		{
+			echo "<script>alert(\"请先登录!\");history.back();</script>";
+			exit;
+		}
+		
+		//显示所有已上传的文件列表
+		include "../sqlclass/sqlclass.php";
+		$mysql = new mySql();
+		$sql = "select * from tb_reply";
+		$mysql->query($sql);
+		$resInfo = $mysql->getnext();
+		$posting_title_id = 0;
+
+		if(isset($_GET['title_id']))
+		{
+			$posting_title_id = $_GET['title_id'];  //获取studentqa.php页面传过来的title_id
+			//echo $posting_title_id;
+		}
+		else
+		{
+			$posting_title_id = "-1";
+		}
+	
+		//如果posting_title_id不为-1
+		$res_title = "";
+		$sql_title = "";
+		$sql_reply = "";
+		$res_posting = "";
+
+		
+		$sql_title = "select title from tb_alltitle where title_id='".$posting_title_id."'";//获取tb_alltile表中满足条件的title
+		$mysql->query($sql_title);
+		$res_title = $mysql->getnext();
+		//如果res_title为空
+		if($res_title == '0')
+		{
+			echo $sql_title;
+		}
+
+		$sql_posting = "select nickname,content,createtime from tb_posting where title_id='".$posting_title_id."'";//获取tb_posting表中满足条件的所有内容
+		$mysql->query($sql_posting);
+		$res_posting = $mysql->getnext();
+		//如果res_posting为空
+		if($res_posting == '0')
+		{
+			echo $sql_posting;
+		}
+
+		$postInfo_title = $res_title->title;//获取到该页面要显示的title
+
+		echo "<div class=\"div-head\">";
+		echo "<p class=\"taolun\">综合讨论区：".$postInfo_title."";
+		echo "<a href=\"#postText\" class=\"gentie\">跟帖</a></p>";
+		echo "</div>";
+
+		echo "<div class=\"div-form\">";
+		echo "<form class=\"form_postInfo\" name=\"form1\" method=\"post\" action=\"replyinsert.php?title_id="
+			.$posting_title_id."\">";
+		echo "<div>";
+
+		$numflag = 0;
+			while ($res_posting != '0') {
+				$numflag++;
+				$postInfo_nickname = $res_posting->nickname;//获取到要显示的昵称
+				$postInfo_createtime = $res_posting->createtime;//获取到要显示的回复时间
+				$posting_content = $res_posting->content;//获取到要显示的内容
+
+				echo "<script type=\"text/javascript\">";
+				echo "$(document).ready(function(){";
+				echo "$(\".p-btn-reply".$numflag."\").click(function(){";
+				echo "$(\".panel_reply".$numflag."\").slideToggle(\"slow\")";
+				echo "});";
+				echo "});";
+				echo "</script>";
+
+				echo "<style type=\"text/css\">";
+				echo "div.panel_reply".$numflag;
+				echo "{height:120px; display:none;}";
+				echo ".p-btn-reply".$numflag;
+				echo "{color:#2d64b3; outline:0; margin-top:50px; margin-left:750px; font-size:14px;}";
+				echo "</style>";
+
+				echo "<div class=\"div-author\">";
+				echo "<p class=\"p-nichen\">昵称：".$postInfo_nickname."</p>";
+				echo "<p class=\"p-post-time\">发布时间：<br>".$postInfo_createtime."</p>";
+				echo "</div>";
+
+				echo "<div class=\"div-content\">";
+				echo "<p class=\"p-post-content\">".$posting_content."</p>";
+				echo "<p class=\"p-btn-reply".$numflag."\">回复</p>";
+				echo "</div>";
+				
+				$sql_reply = "select nickname,content,createtime from tb_reply where title_id='".$posting_title_id."' and post_id='".$numflag."'";
+				$mysql_reply = new mySql();
+				$mysql_reply->query($sql_reply);
+				$res_reply = $mysql_reply->getnext();
+				//如果res_reply为空
+				while($res_reply != '0')
+				{
+					echo $res_reply->nickname."(".$res_reply->createtime."):".$res_reply->content."&nbsp;";
+					$res_reply = $mysql_reply->getnext();
+					echo "<br />";
+				}
+
+				echo "<div class=\"panel_reply".$numflag."\">";
+				echo "<textarea name=\"reply_content".$numflag."\" cols=82 rows=6></textarea>";
+				echo "<input type=\"submit\" value=\"确定\">";
+				echo "</div>";
+
+				//echo "<tr class=\"panel_reply".$numflag."\">
+					
+					// <td>
+					// 	<textarea name=\"reply_content".$numflag."\" cols=82 rows=6></textarea>
+						
+					// 	<input type=\"submit\" value=\"确定\">
+					// </td>";
+				 //    echo "</tr><tr>";
+				$res_posting = $mysql->getnext();
+			}
+		
+		echo "</div>";
+		echo "</form>";
+		echo "</div>";
+
+		echo "<div>";
+		echo "<a name=\"postText\">";
+		echo "<form class=\"form_postInfo\" method=\"post\" action=\"postInfoinsert.php?title_id=".$posting_title_id."\">";
+		
+		echo "<textarea class=\"textarea\" name=\"gentie_content\" cols=82 rows=6></textarea>";
+		echo "<div>";
+		echo 	"<input type=\"submit\" value=\"确定\" >";
+		echo "</div>";
+		echo"</form></a>";
+		echo "</div>";
+
+		$mysql->close();
+	?>
+</body>
+</html>

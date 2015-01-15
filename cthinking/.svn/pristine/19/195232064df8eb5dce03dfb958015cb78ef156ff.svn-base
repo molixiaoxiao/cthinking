@@ -1,0 +1,1074 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<title>新生专区 - 华中科技大学论坛  </title>
+<meta name="generator" content="  7.5 SP3">
+<meta name="description" content="新生专区,华中科技大学论坛">
+<meta name="keywords" content="新生专区,华中科技大学论坛">
+<meta http-equiv="x-ua-compatible" content="ie=7">
+<link rel="archives" title="华中科技大学论坛" href="http://www.6240.cn/simple/">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.6240.cn/rss.php?fid=57">
+<base id="headbase" href="http://www.6240.cn/">
+<link rel="stylesheet" type="text/css" href="images/wind-reset.css">
+
+<!--css--><style type="text/css">
+body{font-size:9pt;background-color:#ffffff;font-family:Verdana; color:#333;}
+h3,h2{display:inline;}
+h2 a{color:#000;font-size:14px;}
+h3 a{color:#333;font-size:14px;}
+.subject{ font-size:14px;} /*列表标题*/
+.v-in input{vertical-align:baseline;} /*列表下滑线对齐*/
+h4{margin:20px 0 10px;font-size:1.1em}
+/*a link 基本连接颜色*/
+a{text-decoration:none;color:#333333;}
+a:hover{text-decoration:underline;}
+/*内补丁*/
+.pdD{padding:.3em .5em}
+.p10{padding:10px;}
+/*main color 数值自定义*/
+.f_one,.t_one,.r_one{background:#ffffff;}
+.f_two,.t_two,.r_two{background:#f3f9fb;}
+/*按钮*/
+.btn{border-color:#1b72af;margin-right:1em;color:#fff;background:#1b72af;}
+.btn,.bt{border-width:1px;cursor:pointer;padding:.1em 1em;*padding:0 1em;font-size:9pt; line-height:130%; overflow:visible;-moz-border-radius:2px;-khtml-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;}
+.bt{cursor:pointer;background:#f7f7f7 url(images/wind/btn.png) 0 -52px repeat-x;vertical-align:middle;border-color: #e4e4e4 #cccccc #cccccc #e4e4e4;}
+/*伪类按钮*/
+.bta{cursor:pointer;color:#333333;padding:2px 8px;background:#f3f9fb;margin:2px;white-space:nowrap;border:1px solid #d5e6ed;-moz-border-radius:2px;-khtml-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;}
+.abtn2 a{border:1px solid #fbfdff;padding:2px 4px 1px;color:#555;}
+.abtn2 a:hover{border:1px solid #2195d2;color:#2195d2;text-decoration:none;background:#fff;}
+/*form*/
+textarea,input,select{font:12px Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px;}
+select{border:solid 1px #d5e6ed;}
+.input{border: 1px solid; border-color: #c0c0c0 #ededed #ededed #c0c0c0;padding:2px 0px 2px 1px;font-size:1.0em;vertical-align:middle;color:#000;}
+textarea{border: 1px solid; border-color: #c0c0c0 #ededed #ededed #c0c0c0;}
+/*全局*/
+.new_topbar{width:98%;margin:auto;min-width:800px;overflow:hidden;}
+#header{min-width:980px;background:url(images/wind/bg.png) 0 -2px repeat-x}
+	#head{width:98%;max-width:1200px;margin:0 auto;}
+	#nav{width:98%;max-width:1200px;margin:auto;height:35px;background-color:#176eac;}
+#main{width:98%;max-width:1200px;margin:0 auto;}  /*内容*/
+#footer{padding:0 0 30px;width:98%;margin:0 auto;max-width:1200px;}
+	.bottom{margin:0 auto 10px;border:1px solid #d5e6ed;background:#f3f9fb;}
+	.bottom ul{ padding:5px; margin:0; list-style:none;}
+	.bottom ul li{ padding:0 10px 0 0;display:inline;}
+	.bottom ul li a{white-space:nowrap;}
+/*位置*/
+#breadCrumb{padding:10px;color:#999;background:url(images/wind/bg.png) 0 -10px repeat-x;border-top:1px solid #a6cbe7;zoom:1;}
+/*公告*/
+.noticebg{background:url(images/wind/bg.png) 0 -10px repeat-x;}
+	#notice{padding:10px;background:url(images/wind/file/anc.png) 12px 12px no-repeat;}
+	#notice li{list-style:none;float:left;white-space:nowrap;padding-left:1.6em;height:18px;}
+	#notice a{padding-right:.5em;}
+/*文字ad*/
+.ad-text{margin:0 auto 8px;border:1px solid #d5e6ed;border-bottom:0;background:#ffffff;}
+.ad-text .tr3 td,.ad-text .tr3 th{border-bottom:1px solid #d5e6ed;padding:.4em .6em;}
+/*栏目导航*/
+#nav-global,.nav-left,.nav-right{background:url(images/wind/nav-bg.png);}
+.nav-left,.nav-right{width:5px;height:35px;}
+.nav-left{ background-position:0 0;_margin-right:-3px;}
+.nav-right{ background-position:0 -70px;_margin-left:-3px;}
+#nav-global{ background-position:0 -35px;height:35px;overflow:hidden;}
+	#nav-global ul{font-size:14px;padding-left:10px;}
+		#nav-global li,#nav-global li a{background:url(images/wind/nav-cur.png) 999em 999em no-repeat;}
+		#nav-global li{margin:5px 0 0 0;float:left;}
+		#nav-global li a{float:left;color:#ffffff;padding:0 10px;height:27px;line-height:23px;outline:none;font-weight:700;}
+		#nav-global li a:hover{color:#ffea00; text-decoration:none;}
+		#nav-global .current{background-position:left top;line-height:33px;height:33px;margin:2px 5px 0;}
+		#nav-global .current a,#nav-global .current a:hover{background-position:right top;color:#1b72af;display:inline;line-height:33px;height:33px;padding:0 19px; text-decoration:none;}
+	#td_mymenu,#td_mymenu_old{background:url(images/wind/shortcut.gif) 0 0 no-repeat;color:#555;}/*快捷导航*/
+	#td_mymenu_old{background-position:0px bottom;color:#888;}
+	#nav-s{background:url(images/wind/nav-search.png);width:270px;height:35px;overflow:hidden; float:right;_margin-left:-3px;}
+		#nav-s .fr{margin:9px 20px 0 0;*margin:11px 20px 0 0;line-height:14px;}
+		.s-btn,.s-input{background:none;border:0;}
+		.s-btn{ cursor:pointer;width:55px;height:21px;vertical-align:middle !important;vertical-align:baseline;margin:5px 0 0 1px;}
+		.s-input{height:17px;padding:4px 1px 0;width:150px;margin:5px 0 0 10px;float:left;}
+.index-info{background:#ffffff;width:98%;max-width:1200px;margin:0 auto;}
+	.index-info td{padding:3px 0 2px 10px;line-height:24px;}
+	.index-info a{margin-right:10px;white-space:nowrap;}
+.forum-info{background:#ffffff;padding:0 10px 6px 10px;line-height:1;border-bottom:1px solid #a6cbe7;}
+/*用户登录*/
+.user-table td{padding:1em 1em .5em 2em;}
+/*table*/
+.t{border:1px solid #a6cbe7;background:#ffffff;padding:1px;}
+.t table{width:100%;*border:1px solid #ffffff;}
+.t3{margin:5px auto;}
+.t5{border:1px solid #d5e6ed;}
+.t,.t5{margin:0 auto 10px; height:auto; overflow:hidden;}
+/*table head*/
+.h{border-bottom:1px solid #c5d8e8;background:#ecf6fb;text-align:left;color:#1b72af;padding:2px 10px 0; line-height:220%;}
+.h span{font-weight:normal;}
+.h h2{font-weight:bold}
+.h a{font-family:Arial;color:#1b72af}
+.h span a,.h span{color:#1b72af;}
+.closeicon{margin-top:.3em}
+.cate_fold{padding:0 5px 0 5px;margin-bottom:2px;text-decoration:none;}
+.cate_fold:hover{text-decoration:none;}
+/*table tr1*/
+.tr1 th{padding:5px 10px;text-align:left;vertical-align:top;font-weight:normal;}
+.tr1 td.td1{border-bottom:1px solid #d5e6ed;}
+/*table tr2*/
+.tr2{background:#ffffff url(images/wind/tr2.png) 0 bottom repeat-x;color:#3d75ac;}
+.tr2 td,.tr2 th{line-height:18px;border-bottom:1px solid #c5d8e8;padding:2px 6px;*padding:4px 6px 1px;}
+.tr2 a{color:#1b72af;margin:0 2px 0;}
+/*table tr3*/
+.tr3 td,.tr3 th{border-bottom:1px solid #d5e6ed;padding:.6em;line-height:1.3;}
+.tr3 th{text-align:left;font-weight:normal;}
+.z .tr3:hover{background:#f3f9fb;}
+.tr td,.tr th{padding:2px}
+.tr5 td{border-right:1px solid #d5e6ed;border-bottom:1px solid #d5e6ed;padding-left:.5em;}/*帖子表格*/
+/*浏览页*/
+h1,.read_h1{font-size:16px;margin:15px;color:#3366cc; font-weight:700;line-height:1;}
+.honor{color:#777;padding:0 10px 5px 0;overflow:hidden;}
+.tpc_content{font-family:Arial;padding:0 15px 20px 15px;margin:0;line-height:2em;}
+.tpc_content font{line-height:1.5em;}
+.tpc_content a{text-decoration:none;color:#0070AF;}
+.tpc_content a:hover{text-decoration:underline}
+.tpc_content ol{list-style-type:decimal;}
+.tpc_content ul{list-style-type:disc;}
+.tips{background:#f3f9fb;border:1px solid #d5e6ed;padding:3px 5px;}
+.tips2{padding:10px 0;border-top:1px dashed #d5e6ed;}
+.tips,.tips2{margin:5px 15px 5px 15px;text-align:left;line-height:24px;float:left;display:inline;}
+.tips2 li{list-style:none;width:30%;height:24px;min-width:210px;margin:0 10px 0 0;float:left;overflow:hidden;text-overflow:ellipsis;}
+.tiptop{border-bottom:1px dashed #ccc ;padding:0 0 0 1px;height:27px;line-height:27px;margin:0 15px;}
+.tipad{margin:20px 15px 10px;}
+.tipad .fr a{color:#888;}
+blockquote{padding-left:1em;}
+.blockquote3{clear:left;border:1px dashed #CCC;background:#f7f7f7 url(images/blockquote3.png) right top no-repeat;margin:10px 0 0;padding:5px 10px;}
+.blockquote3 .quote{color:#999;font-size:12px;}
+.blockquote3 .text{padding:0 10px 10px 10px;}
+.blockquote{zoom:1;padding:5px 8px 5px;line-height:1.3;border:1px solid #fcefbb;background:#fffff3;color:#000;margin:0 15px;}
+.block-img{background:#fffae1 url(images/attention.png) 8px 6px no-repeat;padding-left:28px;margin:0 15px 10px;}
+.blockquote2{border: 1px solid; border-color: #c0c0c0 #ededed #ededed #c0c0c0;margin:0px;padding:0 0 0 2em;line-height:2em;overflow:hidden;background:#fff}
+.blockquote2 ol{margin:0 0 0 1.5em;padding:0;}
+.blockquote2 ol li{border-left:1px solid #ccc;background:#f7f7f7;padding-left:10px;font-size:12px;font-family:"Courier New" serif;list-style-type:decimal-leading-zero;padding-right:1em;}
+.blockquote2 ol li:hover{background:#fff;color:#008ef1;}
+.blockquote2 ol li{list-style-type:decimal;}
+.read_form{border-top:1px solid #d5e6ed;border-left:1px solid #d5e6ed;background:#f3f9fb;}
+.read_form td{height:20px;padding:0 5px;border-right:1px solid #d5e6ed;border-bottom:1px solid #d5e6ed;}
+/*pages*/
+.pages a,.pages b,.pages .pagesone{display:block;float:left;margin-right:3px;}
+.pages a{border:1px solid #d5e6ed;background:#ffffff;padding:0 7px;}
+.pages b,.pages a:hover{background:#1b72af;color:#ffffff;border:1px solid #1b72af;text-decoration:none;padding:0 7px;}
+.pages .pagesone{border:1px solid #d5e6ed;background:#ffffff;font:11px Verdana;line-height:18px;height:18px;padding-right:1px;}
+.pages input{border:1px solid #d5e6ed;padding:0;font:10px/12px Verdana;margin-top:1px;float:left;height:14px;}
+.pages .pagesone span{float:left;margin:0 5px;}
+.pages .c{width:1px;}
+.pages button{height:16px;border:1px solid #a6cbe7;background:#d5e6ed;color:#1b72af;margin:1px 0 0 1px;cursor:pointer;float:left;line-height:12px;}
+/*5像素圆角*/
+.y-bg2,.y-bg3,.y-bg4{background:#ffffff;}
+.y-bg{margin:0 4px;border-top:1px solid #d5e6ed;}
+.y-bg2{margin:0 2px;height:1px;border:2px solid #d5e6ed;border-top:0;border-bottom:0;overflow:hidden;}
+.y-bg3{margin:0 1px;height:2px;border:1px solid #d5e6ed;border-top:0;border-bottom:0;overflow:hidden;}
+.y-bg4{padding:0 10px;border:1px solid #d5e6ed;border-top:0;border-bottom:0;overflow:hidden;}
+/*menu*/
+.menu{position:absolute;background:#fff;border:1px solid #d5e6ed;}
+.menu a{display:block;padding:4px 8px;}
+/*下拉框*/
+.menu-post{border:1px solid #a6cbe7;}
+.menu-post .menu-b{background:#ffffff;border:3px solid #d5e6ed;}
+.menu_tasksA .menu-b{border-width:8px;}
+/*弹出框 popout*/
+.popoutContent{background:#ffffff;border:1px solid #a6cbe7;}
+.bgcorner1,.bgcorner2,.bgcorner3,.bgcorner4,.pobg1,.pobg2,.pobg3,.pobg4{filter:Alpha(opacity=90);_filter:Alpha(opacity=90);opacity:.9;overflow:hidden; z-index:1005; line-height:0 }
+.bgcorner1,.bgcorner2,.bgcorner3,.bgcorner4{width:5px;height:5px;background:#a6cbe7;}
+.bgcorner1{background-position: 0 0 }
+.bgcorner2{background-position: -5px 0 }
+.bgcorner3{background-position: -5px -5px}
+.bgcorner4{background-position:0 -5px}
+.pobg1,.pobg2,.pobg3,.pobg4{ background:#a6cbe7;}
+.pobg1{height:5px; }
+.pobg2{width:5px;}
+.pobg3{height:5px;}
+.pobg4{width:5px;}
+.popoutContent td{padding:.5em .6em;border-bottom:1px solid #d5e6ed;}
+.popoutContent td td{border-bottom:none;padding:.3em 1em .3em 0;}
+/*span color 数值自定义*/
+.black,.black a{color:#333}
+.s1{color:#008000;} /*绿*/
+.s2{color:#984B98;} /*紫*/
+.s3{color:#ff6600;} /*橙*/
+.s4,.s4 a{color:#3366cc;} /*蓝*/
+.s5 a{color:#1b72af;}
+.gray,.gray a{color:#888888;} /*次要字颜色*/
+.gray2,.gray2 a{color:#bbbbbb;}
+.red{color:#ff0000;}/*红*/
+/*登录*/
+.mr5{margin-right:5px;}
+a.select_arrow{background:url(images/select_arrow.gif) no-repeat;display:block;text-indent:-2000em;height:15px;width:15px;margin:0 2px 0 0;overflow:hidden;}
+a.select_arrow:hover{background:url(images/select_arrow_over.gif) no-repeat;}
+.sel_name li{border-bottom:1px solid #d5e6ed;}
+/*tab*/
+.pw_list_a{border-bottom:1px solid #c5d8e8;background:#ecf6fb;color:#1b72af;}
+.pw_list_a li a{color:#1b72af;}
+.pw_list_a .current a{border:1px solid #a6cbe7;background:#ffffff;border-bottom:0;color:#3d75ac;}
+.pw_list_a li.none a{border:1px solid #a6cbe7;background:#ffffff;margin-left:5px;}
+ /*自定义css*/
+</style><!--css-->
+<!--[if IE]>
+<style type="text/css">
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.t table{border-collapse:collapse;}
+.t {padding:0}
+</style>
+<![endif]-->
+<script type="text/javascript" language="JavaScript" src="js/core/core.js"></script><script src="js/desktop/Compatibility.js"></script><script src="js/lang/zh_cn.js"></script>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+<script language="JavaScript">
+var imgpath = 'images';
+var verifyhash = 'c036bfd1';
+var modeimg = '';
+var modeBase = '';
+var winduid = '';
+var windid	= '';
+var groupid	= 'guest';
+var basename = '';
+var temp_basename = '';
+</script>
+</head>
+<body onkeydown="try{keyCodes(event);}catch(e){}"><div id="pw_box" class="" style="position: absolute; z-index: 10; left: 182px; visibility: visible; top: 66px; display: none;">
+		<div class="menu-b f14">
+ <ul style="width:77px;*padding-left:5px;line-height:2">
+	  <li><a href="thread.php?fid-57.html">全 部</a></li>
+	  <li><a href="thread.php?fid-57-special-1.html">投 票</a></li>
+	  <li><a href="thread.php?fid-57-special-2.html">活 动</a></li>
+	  <li><a href="thread.php?fid-57-special-3.html">悬 赏</a></li>
+	  <li><a href="thread.php?fid-57-special-4.html">商 品</a></li>
+	  <li><a href="thread.php?fid-57-special-5.html">辩 论</a></li>
+ </ul>
+		</div>
+	</div>
+
+<div class="new_topbar_wrap">
+	<div class="new_topbar">
+    	<div class="cc">
+            <span class="new_topbar_left">
+	<a onclick="showLoginDiv();" title="展开登录框" style="cursor:pointer" hidefocus="true">登录</a><a href="hust.php" hidefocus="true">注册</a>
+                <div id="user-login" class="menu-post" style="display:none;">
+                            <form action="login.php" name="login_FORM" method="post">
+                                <input type="hidden" name="jumpurl" value="http://www.6240.cn/thread.php?fid-57.html">
+                                <input type="hidden" name="step" value="2">
+                                <input type="hidden" name="cktime" value="31536000">
+                                <div class="menu-b" style="width:400px;">
+                                    <div class="h b"><span class="fr" onclick="read.close();" style="cursor:pointer;" title="关闭"><img src="images/close.gif"></span>登录</div>
+<table width="400" cellpadding="0" cellspacing="0">
+                                    <tbody><tr class="user-table">
+                                        <td width="30%">
+                                        <select name="lgt">
+                                        <option value="0" selected="">用户名</option>
+                                        </select>
+                                        </td>
+                                        <td class="tal"><input class="input gray" type="text" onfocus="checkinput(this);" onblur="if(getObj('logintab')) getObj('logintab').style.display='';checkinput(this,'输入用户名');" style="width:150px" name="pwuser" id="pwuser" value="输入用户名" tabindex="1"></td>
+                                    </tr>
+                                    <tr class="user-table">
+                                        <td>密  码</td>
+                                        <td class="tal"><input class="input" type="password" name="pwpwd" style="width:150px;" tabindex="2"></td>
+                                    </tr>
+                                    <tr class="user-table">
+                                        <td></td>
+                                        <td class="tal"><input class="btn fl" type="submit" value=" 登 录 " tabindex="8">
+                                            <a href="sendpwd.php" class="fl">找回密码</a></td>
+                                    </tr>
+                                </tbody></table>
+                    </div>
+                            </form>
+                    </div>
+            </span>
+            <ul class="new_topbar_right">
+<li><a href="faq.php" id="td_ID4" target="_blank">|帮助</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="header">
+		<div id="head">
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td><a href="http://www.6240.cn/" class="fl"><img src="images/wind/logo.png"></a></td>
+		<td id="banner" align="right">
+		</td>
+	</tr>
+</tbody></table>
+		</div>
+	<div class="nav-wrap">
+		<div id="nav">
+		<span class="nav-left fl"></span>
+            <div id="nav-s">
+	<a href="javascript:;" class="fr" onclick="goAdvanceSearch();return false;">高级</a>
+	<form name="sF" action="search.php?#submit" method="post">
+	<input type="hidden" name="step" value="2">
+	<input type="hidden" name="method" value="AND">
+	<input type="hidden" name="sch_area" value="0">
+	<input type="hidden" name="f_fid" value="all">
+	<input type="hidden" name="sch_time" value="all">
+                <input class="s-input" type="text" id="keyword" name="keyword">
+                <input class="s-btn" type="submit" name="submit" value=" ">
+                </form>
+</div>
+<script language="JavaScript">
+function goAdvanceSearch(){
+	var keyword = getObj('keyword').value;
+	var url = 'search.php?advanced=1&keyword='+keyword;
+	window.location = url;
+}
+</script>
+<div id="nav-global">
+	<div id="td_mymenu_old" style="cursor:pointer" onclick="read.open('menu_mymenu_old','td_mymenu_old',3);">我的快捷通道</div>
+	<div id="menu_mymenu_old" style="display:none;">
+                	<div class="menu-post" style="width:250px;">
+                        <div class="menu-b p10">
+                        	<a href="javascript:;" onclick="read.close();" title="关闭"><img src="images/close.gif" alt="关闭" class="fr"></a>
+                            您还没有登录，快捷通道只有在登录后才能使用。
+	<a onclick="showLoginDiv();return false;" href="login.php" class="s4">立即登录</a>
+                            <div class="card-cont-hr mb10"></div>
+                            还没有帐号？ 赶紧 <a href="hust.php" class="s4">注册一个</a>
+                        </div>
+                    </div>
+	</div>
+	<ul class="cc">
+		<li class="current"><a href="http://www.6240.cn/" id="td_KEYbbs">论坛</a></li>
+	</ul>
+</div>
+        </div>
+     </div>
+</div>
+<div class="index-info cc">
+<table cellpadding="0" cellspacing="0" width="100%" style="table-layout:fixed;">
+	<tbody><tr class="vt"><td class="tal s5" width="450">
+	<form action="login.php" name="login_FORM" method="post">
+		<input type="hidden" name="jumpurl" value="http://www.6240.cn/thread.php?fid-57.html">
+		<input type="hidden" name="step" value="2">
+		<input type="hidden" name="cktime" value="31536000">
+		<div class="cc">
+<div class="fl input mr5" style="padding-left:3px;">
+<input class="fl gray" onfocus="navCheckinput(this);" onblur="navCheckinput(this);" style="width:85px;border:0;padding:0;" name="pwuser" id="nav_pwuser" value="输入用户名" tabindex="10">
+</div>
+<input class="input fl mr5" type="password" name="pwpwd" style="width:85px;" onfocus="if(IsElement('nav_logintab')) getObj('nav_logintab').style.display='';this.value='';var o_nav_logintab = IsElement('nav_logintab') ? getObj('nav_logintab') : ''; PW_popEvent(o_nav_logintab);" tabindex="11">
+<input class="btn fl" type="submit" value="登录" tabindex="8">
+<a href="hust.php" class="b">注册</a>
+		</div>
+		<input type="hidden" name="lgt" id="nav_lgt" value="0">
+		</form>
+<script language="JavaScript">
+var default_login_type = '0';
+var default_input_value = '输入' + '用户名';
+
+function showLoginType(){
+	if(getObj('login_type_list').style.display=='none'){
+		getObj('login_type_list').style.display = '';
+	} else {
+		getObj('login_type_list').style.display = 'none';
+	}
+	if (IsElement('nav_logintab')){
+		getObj('nav_logintab').style.display = 'none';
+	}
+}
+
+function showcustomquest(qid){
+	getObj('othercustomquest').style.display = qid==-1 ? '' : 'none';
+}
+function navCheckinput(obj){
+	if (obj.className.indexOf('gray')!=-1) {
+		obj.value = '';
+		obj.className = obj.className.replace('gray', 'black');
+	} else if (obj.value=='') {
+		obj.value = obj.defaultValue = default_input_value;
+		if (obj.className.indexOf('black') == -1) {
+obj.className += ' gray';
+		} else {
+obj.className = obj.className.replace('black', 'gray');
+		}
+	}
+}
+function changeDefaultInputValue(text){
+	getObj('nav_pwuser').value = text;
+	getObj('nav_lgt').value = default_login_type;
+}
+
+function selectLoginType(type,text){
+
+	var nav_pwuser = getObj('nav_pwuser');
+	nav_pwuser.value = '输入'+text;
+	if (nav_pwuser.className.indexOf('black') != -1) {
+		nav_pwuser.className = nav_pwuser.className.replace('black', 'gray');
+	}
+	getObj('nav_lgt').value = type;
+	getObj('login_type_list').style.display = 'none';
+}
+
+changeDefaultInputValue(default_input_value);
+</script>
+</td>
+<td class="tar">
+	<a href="search.php?sch_time=newatc" id="td_KEYlastpost">最新帖子</a>
+	<a href="search.php?digest=1" id="td_KEYdigest">精华区</a>
+	<a href="javascript:;" id="td_KEYhack">社区服务</a>
+	<div id="menu_KEYhack" class="menu menu-post cc" style="display:none;">
+		<div class="menu-b" style="width:9em;">
+<p><a href="hack.php?H_name=bank" id="td_KEYhack_bank">银行</a></p>
+<p><a href="hack.php?H_name=colony" id="td_KEYhack_colony">朋友圈</a></p>
+<p><a href="hack.php?H_name=advert" id="td_KEYhack_advert">广告管理</a></p>
+<p><a href="hack.php?H_name=rate" id="td_KEYhack_rate">评价管理</a></p>
+		</div>
+	</div>
+	<a href="member.php" id="td_KEYmember">会员列表</a>
+	<a href="sort.php" id="td_KEYsort">统计排行</a>
+	<div id="menu_KEYsort" class="menu menu-post cc" style="display:none;">
+		<div class="menu-b" style="width:9em;">
+<p><a href="sort.php" id="td_KEYsort_basic">基本信息</a></p>
+<p><a href="sort.php?action=ipstate" id="td_KEYsort_ipstate">到访IP统计</a></p>
+<p><a href="sort.php?action=team" id="td_KEYsort_team">管理团队</a></p>
+<p><a href="sort.php?action=admin" id="td_KEYsort_admin">管理操作</a></p>
+<p><a href="sort.php?action=online" id="td_KEYsort_online">在线会员</a></p>
+<p><a href="sort.php?action=member" id="td_KEYsort_member">会员排行</a></p>
+<p><a href="sort.php?action=forum" id="td_KEYsort_forum">版块排行</a></p>
+<p><a href="sort.php?action=article" id="td_KEYsort_article">帖子排行</a></p>
+<p><a href="job.php?action=taglist" id="td_KEYsort_taglist">标签排行</a></p>
+		</div>
+	</div>
+</td></tr></tbody></table></div>
+<div id="menu_shortcut" class="menu menu-post cc" style="display:none;">
+	<div class="menu-b" style="width:9em;width:150px;">
+		<a href="thread.php?fid-30.html">灌水聊天</a>
+		<a href="thread.php?fid-45.html">电脑网络</a>
+		<a href="thread.php?fid-58.html">考研招聘</a>
+		<a href="thread.php?fid-15.html">游戏动漫</a>
+		<a href="thread.php?fid-35.html">时尚达人</a>
+		<a href="thread.php?fid-56.html">华科校友</a>
+	</div>
+</div>
+<div class="main-wrap">
+<div id="main">
+<style type="text/css">
+.tr3 td,.tr3 th{padding:4px 8px;line-height:1.3;}
+.t_search{border:1px solid #a6cbe7;background:#ffffff;margin-left:5px;height:18px;overflow:hidden;}
+.t_s_ip{border:1px solid #fff;padding:1px 2px 0;float:left;height:15px; font:12px/14px Arial;background:#fff; width:85px;}
+.t_s_btn{float:left;background:#f3f9fb url(images/t_search.png) center -1px no-repeat;border:1px solid #fff;border-left:1px solid #d5e6ed;cursor:pointer;width:25px;height:18px;overflow:hidden;}
+.t_search input::-moz-focus-inner{border-color:transparent!important;}
+</style>
+<div id="menu_forumlist" style="display:none;">
+	<div class="sbar-box-a" style="width:700px;">
+		<div class="sbar-title" style="cursor:pointer" onclick="try{pw_bottom.hiddenTab();read.close();}catch(e){read.close();}">
+	<span class="menu-hidden aimg">隐藏</span>
+	<span id="title_forumlist" class="b">快速浏览</span>
+		</div>
+		<div class="sbar-box-b">
+<div class="forum-list-popout">
+<dl class="cc">
+	<dt>
+	<a href="index.php?cateid-55.html">生活信息</a>
+	</dt>
+	<dd class="cc">
+		<a href="thread.php?fid-58.html" onclick="return pwForumList(true,gIsPost,58);"><span>考研招聘</span></a>
+		<a href="thread.php?fid-50.html" onclick="return pwForumList(true,gIsPost,50);"><span>华科跳蚤市场 </span></a>
+		<a href="thread.php?fid-57.html" onclick="return pwForumList(true,gIsPost,57);"><span>新生专区</span></a>
+		<a href="thread.php?fid-56.html" onclick="return pwForumList(true,gIsPost,56);"><span>华科校友</span></a>
+	</dd>
+</dl>
+<dl class="cc">
+	<dt>
+	<a href="index.php?cateid-14.html">休闲娱乐</a>
+	</dt>
+	<dd class="cc">
+		<a href="thread.php?fid-30.html" onclick="return pwForumList(true,gIsPost,30);"><span>灌水聊天</span></a>
+		<a href="thread.php?fid-19.html" onclick="return pwForumList(true,gIsPost,19);"><span>音乐影视</span></a>
+		<a href="thread.php?fid-32.html" onclick="return pwForumList(true,gIsPost,32);"><span>男生女生</span></a>
+		<a href="thread.php?fid-45.html" onclick="return pwForumList(true,gIsPost,45);"><span>电脑网络</span></a>
+		<a href="thread.php?fid-15.html" onclick="return pwForumList(true,gIsPost,15);"><span>游戏动漫</span></a>
+		<a href="thread.php?fid-35.html" onclick="return pwForumList(true,gIsPost,35);"><span>时尚达人</span></a>
+	</dd>
+</dl>
+</div>
+		</div>
+	</div>
+</div>
+<div id="breadCrumb" class="cc">
+		<span class="fr">
+		</span>
+<a href="http://www.6240.cn/index.php?m=bbs" title="华中科技大学论坛">华中科技大学论坛</a> » <a href="thread.php?fid-57.html">新生专区</a>
+<a href="rss.php?fid-57.html" target="_blank" title="RSS订阅本版面最新帖子">
+<img src="images/wind/rss.png" align="absbottom" style="margin-bottom:2px;"></a>
+<span id="shortcut">
+<a style="cursor:pointer;" onclick="javascript:shortCut();" title="将本版块添加到我的书签"><img src="images/wind/thread/cancel.gif" align="absbottom" style="margin-bottom:2px;"></a>
+</span>
+</div>
+<!--ads begin-->
+<!--ads end-->
+<div class="c"></div>
+<div class="c" id="c"></div>
+<div class="t3 cc">
+<span class="fr"><a href="post.php?fid=57" title="发表新帖"><img src="images/wind/post.png" id="td_post"></a></span>
+<div style="padding-top:8px;" class="cc">
+    <span class="fl"><div class="pages"><a href="thread.php?fid-57-page-1.html" class="b">«</a><b>1</b><a href="thread.php?fid-57-page-2.html">2</a><a href="thread.php?fid-57-page-3.html">3</a><a href="thread.php?fid-57-page-4.html">4</a><a href="thread.php?fid-57-page-5.html">5</a><a href="thread.php?fid-57-page-140.html" class="b">»</a><span class="pagesone"><span>Pages: 1/140</span><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread.php?fid=57&amp;page='+this.value+'';return false;}"><button onclick="javascript:  location='thread.php?fid=57&amp;page='+this.previousSibling.value+'';return false;">Go</button></span></div></span>
+        <div class="t_search fl"><form name="sF" action="search.php#submit" method="post">
+        <input type="hidden" value="2" name="step">
+        <input type="hidden" value="AND" name="method">
+        <input type="hidden" value="1" name="sch_area">
+        <input type="hidden" value="57" name="f_fid">
+        <input type="hidden" value="all" name="sch_time">
+        <input type="text" class="t_s_ip gray" name="keyword" onfocus="if(this.value=='版内搜索') this.value='';" onblur="if(this.value=='') this.value='版内搜索';" value="版内搜索"><input name="submit" type="submit" class="t_s_btn" value=" "></form></div>
+    </div>
+</div>
+<div id="menu_post" class="menu menu-post cc f14 tac" style="display:none;">
+	<div class="menu-b" style="width:100px;">
+	<a href="post.php?fid=57" title="新 帖" hidefocus="true">新 帖</a>
+	</div>
+</div>
+<div class="t z" style="margin:auto">
+<table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	<tbody><tr><th colspan="6">
+	<div class="pw_list_a pr pw_maxlist">
+	<div id="menu_special" class="menu-post tac" style="display:none;">
+		<div class="menu-b f14">
+ <ul style="width:77px;*padding-left:5px;line-height:2">
+	  <li><a href="thread.php?fid-57.html">全 部</a></li>
+	  <li><a href="thread.php?fid-57-special-1.html">投 票</a></li>
+	  <li><a href="thread.php?fid-57-special-2.html">活 动</a></li>
+	  <li><a href="thread.php?fid-57-special-3.html">悬 赏</a></li>
+	  <li><a href="thread.php?fid-57-special-4.html">商 品</a></li>
+	  <li><a href="thread.php?fid-57-special-5.html">辩 论</a></li>
+ </ul>
+		</div>
+	</div>
+	<ul>
+		<li id="thread_type_all" class=" current"><a href="thread.php?fid-57.html#c">全部</a></li>
+		<span id="t_typedb">
+		<li id="thread_type_digest"><a href="thread.php?fid-57-search-digest.html#c">精华</a></li>
+		</span>
+		<li class="none"><a href="javascript:void(0);" id="td_special">按类型查看<span style="font-size:9px">▼</span></a></li>
+	</ul>
+	</div>
+<script language="javascript">
+setCurrent('thread_type_all','thread_type_all','current');
+</script>
+	</th>
+</tr>
+
+
+	</tbody><tbody style="table-layout:fixed;">
+	<tr class="tr2">
+	<td style="width:2%" class="tac y-style"></td>
+	<td>
+    	文章
+    </td>
+    <script language="JavaScript">
+	    var orderThreadsClass = {
+		 	orderThreads : function(orderway){
+	var orderway = orderway || 'lastpost';
+	var form = document.createElement("form");
+	form.action = "thread.php?fid=57&page=1&";
+	form.method = "post";
+	var h_type = this.createInput("hidden","type","0");
+	var h_search = this.createInput("hidden","search","1000");
+	var h_special = this.createInput("hidden","special","0");
+	var h_orderway = this.createInput("hidden","orderway",orderway);
+	var h_asc = this.createInput("hidden","asc","DESC");
+	form.appendChild(h_type);
+	form.appendChild(h_search);
+	form.appendChild(h_special);
+	form.appendChild(h_orderway);
+	form.appendChild(h_asc);
+	document.body.appendChild(form);
+	setTimeout(function(){/*ie6*/
+		form.submit();
+	},0);
+	return false;
+},
+createInput : function(type,name,value){
+	var hidden = document.createElement("input");
+	hidden.type = type;
+	hidden.name = name;
+	hidden.value = value;//↓
+	return hidden;
+}
+    	}
+    	function orderThreads(orderway){
+	    	orderThreadsClass.orderThreads(orderway);
+	    }
+	</script>
+	<td style="width:120px;" class="y-style">作者/<a href="javascript:;" title="按发表时间排序" onclick="orderThreads('postdate');">时间</a></td>
+	<td style="width:80px" class="tal y-style"><a href="javascript:;" title="按回复数排序" onclick="orderThreads('replies');">回复</a>/<a href="javascript:;" title="按人气排序" onclick="orderThreads('hits');">人气</a></td>
+	<td style="width:120px;" class="y-style"><a href="javascript:;" title="按最后回复时间排序" onclick="orderThreads('lastpost');">最后发表↓</a></td>
+	</tr>
+	<tr align="center" class="tr3 t_one">
+	<td><a title="热门主题" href="read.php?tid-76380.html" target="_blank"><img src="images/wind/thread/topichot.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76380">
+
+<img src="images/wind/file/headtopic_3.gif" align="absmiddle" title="置顶帖标志">
+
+<a href="read.php?tid-76380.html" id="a_ajax_76380" class="subject">【福利到！】免费学英语过四六级还送小米F码可还行！</a>&nbsp;  
+<span class="w">  <img src="images/wind/file/multipage.gif" border="0" align="absmiddle"> <span style="font-family:verdana;"> <a href="read.php?tid-76380.html">1</a> <a href="read.php?tid-76380-page-2.html">2</a> <a href="read.php?tid-76380-page-3.html">3</a></span> </span>
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=74232" class="bl">liwya</a>
+		<div class="f10 gray">2014-04-15</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">26</span>/12709</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76380-page-e-fpage-1.html#a">细菌</a><br>
+		<span class="f10 gray">2014-04-17 15:57</span>
+	</td>
+	</tr>
+
+	<tr class="tr2"><td colspan="6" class="tac" style="border-top:0">普通主题</td></tr>
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76668.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76668">
+
+
+<a href="read.php?tid-76668.html" id="a_ajax_76668" class="subject">北京市园林绿化局直属事业单位公开招聘33人公告</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85132" class="bl">20131216</a>
+		<div class="f10 gray">2014-04-23</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/16</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76668-page-e-fpage-1.html#a">20131216</a><br>
+		<span class="f10 gray">2014-04-23 16:21</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76573.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76573">
+
+
+<a href="read.php?tid-76573.html" id="a_ajax_76573" class="subject">上柴柴油发电机的可靠性强吗</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=84179" class="bl">南柯唯梦</a>
+		<div class="f10 gray">2014-04-21</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/33</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76573-page-e-fpage-1.html#a">南柯唯梦</a><br>
+		<span class="f10 gray">2014-04-21 10:46</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76529.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76529">
+
+<img src="images/post/emotion/1.gif" border="0" align="absmiddle"> 
+<a href="read.php?tid-76529.html" id="a_ajax_76529" class="subject">2014年北京市公安局文职人员招聘593名工作人员</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85132" class="bl">20131216</a>
+		<div class="f10 gray">2014-04-18</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/31</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76529-page-e-fpage-1.html#a">20131216</a><br>
+		<span class="f10 gray">2014-04-18 17:05</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76523.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76523">
+
+<img src="images/post/emotion/1.gif" border="0" align="absmiddle"> 
+<a href="read.php?tid-76523.html" id="a_ajax_76523" class="subject">有梦想就有希望 CFA就是我们的梦想</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85465" class="bl">鳗鱼君</a>
+		<div class="f10 gray">2014-04-18</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/29</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76523-page-e-fpage-1.html#a">鳗鱼君</a><br>
+		<span class="f10 gray">2014-04-18 14:13</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76402.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76402">
+
+<img src="images/post/emotion/1.gif" border="0" align="absmiddle"> 
+<a href="read.php?tid-76402.html" id="a_ajax_76402" class="subject">2014年北京大学生村官报名入口</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85132" class="bl">20131216</a>
+		<div class="f10 gray">2014-04-15</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/46</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76402-page-e-fpage-1.html#a">20131216</a><br>
+		<span class="f10 gray">2014-04-15 15:44</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76364.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76364">
+
+
+<a href="read.php?tid-76364.html" id="a_ajax_76364" class="subject">高中生技校生就业新选择--加拿大就业培训包分配包拿到绿卡</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=84987" class="bl">rgrous</a>
+		<div class="f10 gray">2014-04-14</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/26</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76364-page-e-fpage-1.html#a">rgrous</a><br>
+		<span class="f10 gray">2014-04-14 23:50</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76338.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76338">
+
+
+<a href="read.php?tid-76338.html" id="a_ajax_76338" class="subject">华科对面康居园小区单间出租</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85603" class="bl">qinarkhuashao</a>
+		<div class="f10 gray">2014-04-14</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/39</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76338-page-e-fpage-1.html#a">qinarkhuashao</a><br>
+		<span class="f10 gray">2014-04-14 13:44</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-73387.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_73387">
+
+
+<a href="read.php?tid-73387.html" id="a_ajax_73387" class="subject">晒晒法语进四级的秘籍</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85124" class="bl">fiona30011</a>
+		<div class="f10 gray">2014-01-12</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">1</span>/112</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-73387-page-e-fpage-1.html#a">pepxfoq80e</a><br>
+		<span class="f10 gray">2014-04-14 13:37</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76255.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76255">
+
+
+<a href="read.php?tid-76255.html" id="a_ajax_76255" class="subject">海南教育改革时间表公布 9月1出完高招方案</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=84997" class="bl">汪苏泷</a>
+		<div class="f10 gray">2014-04-11</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/39</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76255-page-e-fpage-1.html#a">汪苏泷</a><br>
+		<span class="f10 gray">2014-04-11 10:51</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76232.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76232">
+
+
+<a href="read.php?tid-76232.html" id="a_ajax_76232" class="subject">如何学习ARM+Linux</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=80442" class="bl">mcu2012</a>
+		<div class="f10 gray">2014-04-10</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/32</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76232-page-e-fpage-1.html#a">mcu2012</a><br>
+		<span class="f10 gray">2014-04-10 15:15</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-76018.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_76018">
+
+
+<a href="read.php?tid-76018.html" id="a_ajax_76018" class="subject">红杉树智能英语疑似广告套中套，求鉴定</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=84987" class="bl">rgrous</a>
+		<div class="f10 gray">2014-04-03</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/56</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-76018-page-e-fpage-1.html#a">rgrous</a><br>
+		<span class="f10 gray">2014-04-03 22:53</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75922.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75922">
+
+<img src="images/post/emotion/1.gif" border="0" align="absmiddle"> 
+<a href="read.php?tid-75922.html" id="a_ajax_75922" class="subject">华中科技大学讲座信息（4月2日 周三 19:00）</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=83343" class="bl">至美前程</a>
+		<div class="f10 gray">2014-04-01</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/34</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75922-page-e-fpage-1.html#a">至美前程</a><br>
+		<span class="f10 gray">2014-04-01 18:20</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75912.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75912">
+
+
+<a href="read.php?tid-75912.html" id="a_ajax_75912" class="subject">2014年庐山艺术特训营暑期班（总十九期）招生简章</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=82656" class="bl">王小慧</a>
+		<div class="f10 gray">2014-04-01</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/41</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75912-page-e-fpage-1.html#a">王小慧</a><br>
+		<span class="f10 gray">2014-04-01 15:53</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75911.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75911">
+
+
+<a href="read.php?tid-75911.html" id="a_ajax_75911" class="subject">装修污染猛于虎，如何给我们一个健康的家？</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85497" class="bl">fzdmhb</a>
+		<div class="f10 gray">2014-04-01</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/26</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75911-page-e-fpage-1.html#a">fzdmhb</a><br>
+		<span class="f10 gray">2014-04-01 15:46</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75905.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75905">
+
+
+<a href="read.php?tid-75905.html" id="a_ajax_75905" class="subject">在线教育路在何方</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=84987" class="bl">rgrous</a>
+		<div class="f10 gray">2014-04-01</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/38</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75905-page-e-fpage-1.html#a">rgrous</a><br>
+		<span class="f10 gray">2014-04-01 13:19</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75786.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75786">
+
+
+<a href="read.php?tid-75786.html" id="a_ajax_75786" class="subject">李易天：先有牛股形态，后有题材爆发</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85302" class="bl">饺子哥哥</a>
+		<div class="f10 gray">2014-03-28</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/67</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75786-page-e-fpage-1.html#a">饺子哥哥</a><br>
+		<span class="f10 gray">2014-03-28 14:09</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75785.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75785">
+
+<img src="images/post/emotion/1.gif" border="0" align="absmiddle"> 
+<a href="read.php?tid-75785.html" id="a_ajax_75785" class="subject">至美前程留学申请培训课程（3月29日 周六）</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=83343" class="bl">至美前程</a>
+		<div class="f10 gray">2014-03-28</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/44</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75785-page-e-fpage-1.html#a">至美前程</a><br>
+		<span class="f10 gray">2014-03-28 14:08</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75581.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75581">
+
+
+<a href="read.php?tid-75581.html" id="a_ajax_75581" class="subject">专业帮你做安全超级短线暴涨股&lt;成功来自实力&gt;</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85302" class="bl">饺子哥哥</a>
+		<div class="f10 gray">2014-03-24</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/56</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75581-page-e-fpage-1.html#a">饺子哥哥</a><br>
+		<span class="f10 gray">2014-03-24 13:51</span>
+	</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one">
+	<td><a title="开放主题" href="read.php?tid-75519.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border="0" align="absmiddle"></a></td>
+	<td class="tal" id="td_75519">
+
+
+<a href="read.php?tid-75519.html" id="a_ajax_75519" class="subject">2014我的春季首选,蓝色牛仔连衣裙</a>&nbsp;  
+	</td>
+	<td class="tal y-style"><a href="u.php?action=show&amp;uid=85343" class="bl">漂亮大可爱</a>
+		<div class="f10 gray">2014-03-22</div></td>
+	<td class="tal y-style f10 gray"><span class="s3">0</span>/50</td>
+	<td class="tal y-style">
+		<a href="read.php?tid-75519-page-e-fpage-1.html#a">漂亮大可爱</a><br>
+		<span class="f10 gray">2014-03-22 00:26</span>
+	</td>
+	</tr>
+
+	<tr><td colspan="6" class="f_one" style="height:8px"></td></tr>
+	</tbody>
+</table></div>
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+		<td>
+		<form action="thread.php?fid=57&amp;page=1" method="post">
+		<input type="hidden" name="type" value="0">
+		<input type="hidden" name="special" value="0">
+		<select name="search">
+        	<option value="">所有主题</option>
+<option value="digest">本版精华区</option>
+<option value="1">1天内的主题</option>
+<option value="2">2天内的主题</option>
+<option value="7">1星期内的主题</option>
+<option value="30">1个月内的主题</option>
+<option value="60">2个月内的主题</option>
+<option value="90">3个月内的主题</option>
+<option value="180">6个月内的主题</option>
+<option value="365">1年内的主题</option>
+		</select>
+		<input class="btn" type="button" value="提 交" onclick="this.form.submit();">
+		</form>
+		</td>
+		<td align="right" width="40%">
+		<form name="jump" method="post">
+		<a class="bta fr" href="profile.php?action=permission&amp;fid=57" title="查看您在本版块的权限" target="_blank">版块权限查看</a>
+		</form>
+		</td>
+	</tr>
+</tbody></table></div>
+<div class="t3">
+
+<span class="fr"><a href="post.php?fid=57" title="发表新帖"><img src="images/wind/post.png" id="td_post1"></a></span>
+
+	<span class="fl"><div class="pages"><a href="thread.php?fid-57-page-1.html" class="b">«</a><b>1</b><a href="thread.php?fid-57-page-2.html">2</a><a href="thread.php?fid-57-page-3.html">3</a><a href="thread.php?fid-57-page-4.html">4</a><a href="thread.php?fid-57-page-5.html">5</a><a href="thread.php?fid-57-page-140.html" class="b">»</a><span class="pagesone"><span>Pages: 1/140</span><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread.php?fid=57&amp;page='+this.value+'';return false;}"><button onclick="javascript:  location='thread.php?fid=57&amp;page='+this.previousSibling.value+'';return false;">Go</button></span></div></span>
+	<div class="c"></div>
+</div>
+<div class="c"></div>
+
+<div class="t5"><table cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr class="tr2"><td>在线用户:共0人在线，0位会员(0位隐身)</td></tr>
+	<tr></tr>
+	<tr class="tr2"><td colspan="100" style="border-bottom:0"></td></tr>
+</tbody></table></div>
+<div style="width:550px;margin:0 auto 8px;" class="pd8">
+    <center>
+         <img src="images/wind/thread/topicnew.gif" align="absmiddle"> 开放主题&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/topichot.gif" align="absmiddle"> 热门主题&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/topiclock.gif" align="absmiddle"> 锁定主题&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/topicclose.gif" align="absmiddle"> 关闭主题&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/vote.gif" align="absmiddle"> 投票主题&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/votelock.gif" align="absmiddle"> 锁定投票
+    </center>
+</div>
+<script language="JavaScript">
+var fid = '57';
+var forumtitle = "新生专区";
+var imgok = "collect.gif";
+var imgno = "cancel.gif";
+var myshortcut = false;
+
+function Fjump(value){
+	if(value!=''){
+		window.location=('http://www.6240.cn/thread.php?fid='+value);
+	}
+}
+function Ajump(value){
+	if(value!= ''){
+		window.location=('http://www.6240.cn/u.php?action=show&username='+value);
+	}
+}
+var totalpage = parseInt('140');
+var page = parseInt('1');
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage) {
+window.location = 'thread.php?fid=57&search=&page=' + (page+1);
+		}
+		if(actualCode == 37 && page>1){
+window.location = 'thread.php?fid=57&search=&page=' + (page-1);
+		}
+	}
+}
+
+function shortCut() {
+	ajax.send('pw_ajax.php?action=shortcut&fid='+fid,'',function(){
+		ajax.guide();
+		var rText = ajax.request.responseText.split('	');
+		if (typeof(rText[1]) != 'undefined' && rText[1] == 'successok') {
+getObj('shortcut').innerHTML = "<a style=\"cursor:pointer;\" onclick=\"javascript:shortCut();\" title=\"将本版块移除出我的书签\"><img src=\"images/wind/thread/"+imgok+"\" align=\"absbottom\" style=\"margin-bottom:2px;\" /></a>";
+var shortcutforum = getObj('shortcutforum');
+if (myshortcut == false) {
+	var shortcutname = getObj('shortcutname');
+	shortcutname.innerHTML = "收藏的版块:&nbsp;";
+	shortcutforum.innerHTML = "<li id=\"scf_"+fid+"\"><a href=\"thread.php?fid="+fid+"\">"+forumtitle+"</a>&nbsp;</li>";
+} else {
+	if (IsElement('shortcutforum')) {
+		var li = document.createElement('li');
+		li.id = 'scf_'+fid;
+		li.innerHTML = "<a href=\"thread.php?fid='+fid+'\">"+forumtitle+"</a>&nbsp;";
+		shortcutforum.appendChild(li);
+	}
+}
+
+		} else if (typeof(rText[1]) != 'undefined' && rText[1] == 'successno') {
+getObj('shortcut').innerHTML = "<a style=\"cursor:pointer;\" onclick=\"javascript:shortCut();\" title=\"将本版块添加到我的书签\"><img src=\"images/wind/thread/"+imgno+"\" align=\"absbottom\" style=\"margin-bottom:2px;\" /></a>";
+if (IsElement('scf_'+fid)) {
+	var thisnode = getObj('scf_'+fid);
+	var shortcutforum = thisnode.parentNode;
+	shortcutforum.removeChild(thisnode);
+	var li = shortcutforum.childNodes;
+	for (var i=0; i<li.length; i++) {
+		if (li[i].nodeType == 1) {
+return false;
+		}
+	}
+	myshortcut = false;
+	var shortcutname = getObj('shortcutname');
+	shortcutname.innerHTML = "热门版块:&nbsp;";
+	shortcutforum.innerHTML = getObj('db_shortcutforum').innerHTML;
+}
+		}
+
+	});
+}
+</script>
+</div></div><!--.main-wrap,#main End-->
+<div class="footer-wrap">
+<div class="c"></div>
+<div id="bottom"></div>
+<div class="c"></div>
+<div id="footer">
+<div id="mode-footer" class="mt">
+	<div class="bottom cc tac">
+		<ul>
+<li><a href="job.php?action=erasecookie&amp;verify=1e07a666">清除Cookies</a></li>
+<li><a href="http://www.6240.cn">联系我们</a></li>
+<li><a href="simple/">无图版</a></li>
+<li><a href="m/index.php">手机浏览</a></li>
+<li><a href="javascript:scroll(0,0)">返回顶部</a> </li>
+		</ul>
+	</div>
+	<center class="f9 gray"><span id="windspend"> Time now is:04-24 15:17, Gzip enabled </span><br>
+	Powered by  华中科技大学 论坛 6240.cn Corporation  <span id="stats"><br> 
+	</span></center></div></div></div>
+<script language="JavaScript" src="js/global.js"></script>
+<span style="display:none">
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/2010477.js"></script><a href="http://www.51.la/?2010477" target="_blank"><img alt="51.la 专业、免费、强健的访问统计" src="http://icon.ajiang.net/icon_0.gif" style="border:none"></a>
+
+<script language="JavaScript" src="js/app_global.js"></script>
+<script language="JavaScript">
+var openmenu = {'td_KEYhack' : 'menu_KEYhack','td_KEYsort' : 'menu_KEYsort','td_post' : 'menu_post','td_post1' : 'menu_post','td_special' : 'menu_special'};
+window.onReady(function(){
+	read.InitMenu();
+});
+WINDOW_LOADED=1;
+</script>
+<script language="JavaScript" src="http://init.phpwind.net/init.php?sitehash=10BlVRVAcGDA0GAVRXAlIDWVQADAoABV0AAVUBBwYMVF8&amp;v=7.5 SP3&amp;c=0"></script></span></body></html>

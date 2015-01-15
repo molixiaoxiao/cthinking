@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>用户注册</title>
+<link rel="stylesheet" type="text/css" href="css/import.css" media="all" />
+<script type="text/javascript"src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.semantictabs.js"></script>
+<!-- -->
+<script type="text/javascript" src="js/jQuerySampleScript.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
+<script type="text/javascript"  charset="utf-8" src="js/t_reg.js"></script>
+<script type="text/javascript"  charset="utf-8" src="js/s_reg.js"></script>
+</head>
+
+<body>
+<div id="mytabset">
+<div class="panel">
+<h2>学生注册</h2>
+<form class="SignupForm" id="s_form" method="post" action="ssignup.php">
+  <table>
+    <tr>
+    <td class="label"><label for="department">学  院：</label></td>
+    <td class="field"><select name="department" id="department">
+      <option value="">--请选择学院--</option>
+      <option value="JJ">经济学院</option>
+      <option value="SH">社会学系</option>
+      <option value="RW">人文学院</option>
+      <option value="FX">法学院 </option>
+      <option value="GG">公共管理学院 </option>
+      <option value="WY">外国语学院 </option>
+      <option value="XW">新闻与信息传播学院 </option>
+      <option value="SX">数学系</option>
+      <option value="WL">物理系</option>
+      <option value="HX">化学与化工学院</option>
+      <option value="SK">生命科学与技术学院 </option>
+      <option value="JX">机械科学与工程学院 </option>
+      <option value="CL">材料科学与工程学院 </option>
+      <option value="NY">能源与动力工程学院 </option>
+      <option value="DQ">电气与电子工程学院 </option>
+      <option value="SD">水电与数字化工程学院 </option>
+      <option value="JSJ">计算机科学与技术学院</option>
+      <option value="GD">光电子科学与工程学院</option>
+      <option value="KZ">控制科学与工程系</option>
+      <option value="DX">电子与信息工程系</option>
+      <option value="DJ">电子科学与技术系</option>
+      <option value="RJ">软件学院 </option>
+      <option value="JZ">建筑与城市规划学院 </option>
+      <option value="HJ">环境科学与工程学院 </option>
+      <option value="TM">土木工程与力学学院 </option>
+      <option value="CH">船舶与海洋工程学院 </option>
+      <option value="GL">管理学院 </option>
+      <option value="GW">公共卫生学院</option>
+      <option value="LC">临床学院</option>
+      <option value="JY">基础医学院</option>
+      <option value="FY">法医学系</option>
+      <option value="HL">护理学系</option>
+      <option value="YX">药学院</option>
+      <option value="YW">医药卫生管理学院</option>
+    </select></td>
+    <td class="status"></td>
+  </tr>
+   <tr>
+   <td class="label"><label for="major">专业：</label></td>
+   <td class="field"><select name="major" id="major" >
+   <option value="">--请选择专业--</option>
+      <option value="JJ" class="JJ1">经济学</option>
+      <option value="JJ" class="JJ1">国际经济与贸易</option>
+      <option value="JJ" class="JJ1">金融学</option>
+      <option value="JJ" class="JJ1">金融工程</option>
+      <option value="JJ" class="JJ1">国际商务</option>
+      <option value="JJ" class="JJ1">*统计学</option>     
+    </select></td>
+    <td class="status"></td>
+  </tr>
+  <tr>
+   <td class="label"><label for="class">班级：</label></td>
+    <td class="field"><input type="text" name="class" id="class"></td>
+    <td class="status">格式：12**</td>
+  </tr>
+  <tr>
+   <td class="label"><label for="s_userID">学号：</label></td> 
+   <td class="field"><input type="text" name="s_userID" id="s_userID" /></td>
+    <td class="status">格式：U201******</td>
+  </tr>
+  <tr>
+    <td class="label"><label for="s_truename">姓 名：</label></td>
+    <td class="field"><input type="text" name="s_truename" id="s_truename" /></td>
+    <td  class="status">请填入您的真实姓名</td>
+  </tr>
+  <tr>
+    <td class="label"><label for="s_nickname">昵 称：</label></td>
+    <td class="field"><input type="text" name="s_nickname" id="s_nickname" /></td>
+    <td class="status">6-12位数字或英文，区分大小写</td>
+  </tr>
+  <tr>
+    <td class="label"><label for="s_email">邮 箱：</label></td>
+     <td class="field"><input type="text" name="s_email" id="s_email" /></td>
+    <td class="status">请输入您的常用邮箱，方便找回密码</td>
+  </tr>
+   <tr>
+    <td class="label"><label for="s_password">密 码：</label></td>
+     <td class="field"><input type="password" name="s_password" id="s_password" /></td>
+    <td class="status">请输入密码，区分大小写</td>
+  </tr>
+  <tr>
+    <td class="label"><label for="s_pwd_comfirm">确认密码：</label></td>
+     <td class="field"><input type="password" name="s_pwd_confirm" id="s_pwd_confirm" />
+       </td>
+    <td class="status">请再次输入密码</td>
+  </tr>
+ <tr>
+  <?php for($i=0;$i<4;$i++)
+ {//生成验证码
+	 $num .= dechex(rand(0,15));
+	 }
+?>
+<td class="label"><label for="s_checkcode">验证码：</label></td>
+<td class="field"><input name="s_checkcode" type="text" id="s_checkcode" size="4"/>
+ <input type="hidden" size="4" name="s_txt_code" id="s_txt_code" value="<?php echo $num;?>"><!--隐藏的验证码，方便验证-->
+<img id="s_picsrc" src="getcode.php?num=<?php echo $num;?>">
+<a href="#" id="s_new_code">换一张</a>  </td>
+    
+	<td class="status">不区分大小写 </td>
+  </tr>
+  <tr class="botton_area">
+  <!--隐藏所选的学院和专业，方便传递参数-->
+    <td><div name="depValH" id="depValH"><input type="text" name="depVal" id="depVal"></div>
+    </td>
+    <td><input type="submit" name="s_signup" id="s_sign" value="注册" />
+    <input type="reset" name="s_reset" id="s_reset" value="重置" />
+    </td>
+    <td><div name="majValH" id="majValH"><input type="text" name="majVal" id="majVal"></div></td>
+  </tr>  
+</table>
+</form>
+</div>
+<div class="panel">
+<h2>教师注册</h2>
+<form class="SignupForm" id="t_form" method="post" action="tsignup.php">
+<table>
+ <tr>
+    <td class="label"><label for="t_truename">姓 名：</label></td>
+    <td class="field">
+    <input type="text" name="t_truename" id="t_truename" maxlength="30"  /></td>
+    <td  class="status">请填入您的真实姓名</td>
+  </tr>
+  <tr>
+    <td class="label"><label for="t_userID">账 号：</label></td>
+    <td class="field"><input type="text" name="t_userID" id="t_userID" /></td>
+    <td class="status">6-12位数字或英文，区分大小写</td>
+  </tr>
+   <tr>
+    <td class="label"><label for="t_nickname">昵 称：</label></td>
+    <td class="field"><input type="text" name="t_nickname" id="t_nickname" /></td>
+    <td class="status">6-12位数字或英文，区分大小写</td>
+  </tr>
+  <tr>
+    <td class="label"><label for="t_email">邮 箱：</label></td>
+     <td class="field"><input type="text" name="t_email" id="t_email" /></td>
+    <td class="status">请输入您的常用邮箱，方便找回密码</td>
+  </tr>
+   <tr>
+    <td class="label"><label for="t_password">密 码：</label></td>
+     <td class="field"><input type="password" name="t_password" id="t_password" /></td>
+    <td class="status">请输入密码，区分大小写</td>
+  </tr>
+  <tr>
+    <td class="label"><label for="t_pwd_comfirm">确认密码：</label></td>
+     <td class="field"><input type="password" name="t_pwd_confirm" id="t_pwd_confirm" /></td>
+    <td class="status">请再次输入密码</td>
+  </tr>
+  
+  <tr>
+
+<td class="label"><label for="t_checkcode">验证码：</label> </td>
+<td class="field"><input name="t_checkcode" type="text" id="t_checkcode" size="4"/>
+<input type="hidden" name="t_txt_code" id="t_txt_code" value="<?php echo $num;?>"><!--隐藏的验证码，方便验证-->
+<img id="t_picsrc" src="getcode.php?num=<?php echo $num;?>">
+     <a href="#" id="t_new_code">换一张</a></td>
+    
+	<td class="status">不区分大小写 </td>
+  </tr>
+  <tr class="botton_area">
+    <td>&nbsp;</td>
+    <td><input type="submit" name="t_signup" id="t_sign" value="注册" />
+    <input type="reset" name="t_reset" id="t_reset" value="重置" />
+    </td>
+    <td></td>
+  </tr>
+</table>
+</form>
+</div>
+</div>
+<hr style="border:2 #4c77b3" width="700">
+<div id="footer"><!-- #footer -->
+版权所有 2011 计算与网络中心 保留所有权利
+</div>
+
+</body>
+</html>

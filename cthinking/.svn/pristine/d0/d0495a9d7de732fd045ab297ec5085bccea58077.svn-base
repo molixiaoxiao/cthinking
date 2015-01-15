@@ -1,0 +1,129 @@
+.studentqa{
+	position: relative;
+	top:10px;
+	width:1000px;
+	border:1;
+	margin:center;
+	color:#FFFFFF;
+}
+
+.div_height{
+	border: 1px solid blue;
+}
+
+.div-head{
+	background-color: #7897ed;
+	color: #ffffff;
+	font-weight: bolder;
+	text-align: left;
+	padding: 3px;
+}
+
+.discuss{
+	margin:left;
+	font-size:20px;
+
+}
+
+.div-list{
+
+}
+
+
+.lastpage{
+	display: inline-block;
+	margin-left: 700px;
+	
+}
+
+.btn_post{
+	position:absolute;
+	top:130px;
+	left:1050px;
+}
+
+.div-table{
+
+}
+
+#table
+{
+	border: 1px solid blue;
+	width:100%;
+}
+
+#th{
+	border: 1px solid blue;
+}
+
+
+#td{
+	border: 1px solid blue;
+}
+
+.th1{
+	padding-left: 10px;
+	padding-top: 5px;
+	height: 18px;
+	border-bottom: 1px solid #d6dff7;
+		border-bottom-width: 1px;
+		border-bottom-style: solid;
+		border-bottom-color: rgb(214, 223, 247);
+	color: #0B1DF3;
+}
+
+.lastpage,.nextpage{
+	font-size:16px;
+}
+
+.posting_table{
+	width:600px;
+}
+
+.post_reply{
+	position: relative;
+	padding-bottom:10px;
+	margin-right:20px;
+}
+#biaoge
+{
+	position: absolute;
+	top:200px;
+}
+.button1{
+	margin-top:10px;
+	margin-left:10px;
+margin-bottom:10px;
+}
+.button2
+{
+float:right;
+margin-bottom:10px;
+margin-right:10px;
+margin-top:-45px;
+}
+#button{
+	margin-left:220px;
+	margin-top:30px;
+	width:15%;
+}
+#text{
+	width:60%;
+	margin-left:185px;
+
+}
+#question
+{
+	font-size:30px;
+	font-weight:bold;
+	margin-top:50px;
+	margin-left:400px;
+}
+#content
+{
+	font-size:30px;
+	font-weight:bold;
+	margin-top:50px;
+	margin-left:400px;
+
+}

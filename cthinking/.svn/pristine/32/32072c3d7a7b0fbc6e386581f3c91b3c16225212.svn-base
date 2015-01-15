@@ -1,0 +1,49 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<?php 
+	session_start();
+		$in = false;
+	if(isset($_SESSION['nickname'])){
+		$username= $_SESSION['nickname'];
+	}else{
+		$username = '';
+	}
+	//判断是否登录
+	if(isset($_SESSION['in'])){
+		$in = $_SESSION['in'];
+	}
+	if(!$in)
+	{
+		echo "<script>alert(\"请先登录!\");history.back();</script>";
+		exit;
+	}
+	
+	$posting_title = $_POST['title'];
+	$posting_content = $_POST['details'];
+	if($posting_title=="")
+	{
+		echo "<script>alert(\"请输入帖子的主题！\");history.back();</script>";
+		exit;
+	}if($posting_content=="")
+	{
+		echo "<script>alert(\"请输入帖子的内容！\");history.back();</script>";
+		exit;
+	}
+	include "../sqlclass/sqlclass.php";
+	$mysql = new mySql();
+	$sql = "select * from tb_posting where nickname=$username";
+	$mysql->query($sql);
+	$resInfo = $mysql->getnext();
+	$posting_nickname=$resInfo[nickname];
+	$posting_time=date("Y-m-j H:i:s");
+	
+	if(mysql_query("insert into tb_posting(id, nickname, title_id, title, post_id, content, createtime, isDelete) 
+		values(\"\", ".$posting_nickname.", \"\",".$posting_title.", \"\",".$posting_content.", ".$posting_time.", '0')"))
+	{
+		echo "<script>alert(\"新帖发表成功！\");history.back();</script>";
+	}
+	else
+	{
+		echo "<script>alert(\"新帖发表失败！\");history.back();</script>";
+	}
+	$mysql->close();
+?>

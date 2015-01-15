@@ -1,0 +1,70 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<?php 
+	if(!session_id()){
+		session_start();
+	}
+	$in = false;
+	if(isset($_SESSION['nickname']))
+	{
+		$username= $_SESSION['nickname'];
+	}
+	else
+	{
+		$username = '';
+	}
+	//判断是否登录
+	if(isset($_SESSION['in']))
+	{
+		$in = $_SESSION['in'];
+	}
+	if(!$in)
+	{
+		echo "<script>alert(\"请先登录!\");history.back();</script>";
+		exit;
+	}
+	
+	$posting_title = $_POST['title'];   //获取标题
+	$posting_content = $_POST['content'];  //获取内容
+	$posting_id = $_SESSION['loginID'];     //获取用户ID
+	//$posting_reply_content = $_POST['reply_content'];  //获取回复的的内容
+	
+	if($posting_title=="")  //如果输入的帖子主题为空
+	{
+		echo "<script>alert(\"请输入帖子的主题！\");history.back();</script>";
+		exit;
+	}
+	if($posting_content=="")  //如果输入的帖子内容为空
+	{
+		echo "<script>alert(\"请输入帖子的内容！\");history.back();</script>";
+		exit;
+	}
+
+	include "../sqlclass/sqlclass.php";
+	$mysql = new mySql();
+	if($posting_id==0)	//获取用户类型
+	{
+		$sql = "select * from tb_sinfo where nickname='".$username."'";
+	}
+	else if($posting_id==1)
+	{
+		$sql = "select * from tb_tinfo where nickname='".$username."'";
+	}
+	
+	$mysql->query($sql);
+	$resInfo = $mysql->getnext();
+	if($resInfo == '0')
+	{
+		echo $sql;
+	}
+	$posting_nickname=$resInfo->nickname;  //获取要显示的昵称
+	$posting_time=date("Y-m-j H:i:s");    //获取时间戳
+	
+	include "sql.php";
+	$studentqa = new studentqa();
+	$posting_title_id = $studentqa->inserttitle($posting_title,$posting_nickname,$posting_content,$posting_time);
+	if($posting_title_id != '0')
+	{
+		echo "<script>alert(\"发表新帖成功！\");window.location.href=\"studentqa.php\";</script>";
+	}
+	$mysql->close();
+?>

@@ -1,0 +1,30 @@
+<?php
+
+include "../sqlclass/sqlclass.php";
+
+$userID = $_POST["t_userID"];
+$truename = $_POST["t_truename"];
+$nickname = $_POST["t_nickname"];
+$email = strtolower($_POST["t_email"]);
+$password = $_POST["t_password"];
+
+$mysql = new mySql();	//新建数据库类
+	//mysql_query("set names 'GBK'"); //使用GBK中文编码;解决中文乱码问题
+	
+//md5()is a one-way encryption
+$sql = "insert into tb_tinfo(userID,truename,nickname,email,password)".
+		"values('$userID','$truename','$nickname','$email',MD5('$password'))";
+		//mysql_query($sql);
+$result = $mysql->insert($sql);
+$mysql->close();
+
+
+?>
+<html>
+    <head>
+    <meta>
+    </head>
+    <body>
+   <h2 style="text-align:center">信息提交成功！请等待管理员审批!</h2>
+    </body>
+    </html> 
